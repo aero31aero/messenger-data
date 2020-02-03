@@ -1,0 +1,3590 @@
+{
+    "top_messagers": [
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 23569
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 23201
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 17237
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 16707
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 14078
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 10839
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 10739
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 10058
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 8984
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 8775
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 7785
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 7224
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 6491
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 6234
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 5668
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 5544
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 5116
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 3959
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 3363
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 2789
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 2462
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 2406
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 2131
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 1604
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 1336
+        },
+        {
+            "name": "Shuddhabho Nandi",
+            "batch": 2018,
+            "count": 1128
+        },
+        {
+            "name": "Harsha Sista",
+            "batch": 2016,
+            "count": 1094
+        },
+        {
+            "name": "Abhimanyu Dasgupta",
+            "batch": 2017,
+            "count": 824
+        },
+        {
+            "name": "Nikita Mandapati",
+            "batch": 2015,
+            "count": 708
+        },
+        {
+            "name": "Sriya Suri",
+            "batch": 2017,
+            "count": 559
+        },
+        {
+            "name": "Shanmukh Nama",
+            "batch": 2016,
+            "count": 550
+        },
+        {
+            "name": "Shashank Sistla",
+            "batch": 2017,
+            "count": 522
+        },
+        {
+            "name": "Suhita Saha",
+            "batch": 2015,
+            "count": 500
+        },
+        {
+            "name": "Vamsi Nallapareddy",
+            "batch": 2017,
+            "count": 480
+        },
+        {
+            "name": "Monith Sourya",
+            "batch": 2016,
+            "count": 448
+        },
+        {
+            "name": "Mrunalini Ramnath",
+            "batch": 2017,
+            "count": 440
+        },
+        {
+            "name": "Tarun Agrawal",
+            "batch": 2018,
+            "count": 408
+        },
+        {
+            "name": "Sanath Salil",
+            "batch": 2018,
+            "count": 308
+        },
+        {
+            "name": "Aishwarya Rebelly",
+            "batch": 2016,
+            "count": 270
+        },
+        {
+            "name": "Kaushik Sathishkumar",
+            "batch": 0,
+            "count": 226
+        },
+        {
+            "name": "Aditya Ramaswami",
+            "batch": 2016,
+            "count": 188
+        },
+        {
+            "name": "Asha Cherukuri",
+            "batch": 0,
+            "count": 133
+        },
+        {
+            "name": "Yogitha Garlapati",
+            "batch": 2018,
+            "count": 87
+        },
+        {
+            "name": "Maithree Venkatesan",
+            "batch": 2018,
+            "count": 77
+        },
+        {
+            "name": "Akshay Tiwari",
+            "batch": 2018,
+            "count": 72
+        },
+        {
+            "name": "Adithya Warrier",
+            "batch": 2018,
+            "count": 61
+        },
+        {
+            "name": "Ramana Sriram",
+            "batch": 2018,
+            "count": 58
+        },
+        {
+            "name": "Venkatesh Jaya",
+            "batch": 0,
+            "count": 43
+        },
+        {
+            "name": "Meghna Chintalpudi",
+            "batch": 0,
+            "count": 40
+        },
+        {
+            "name": "Prajjwal Vijaywargiya",
+            "batch": 0,
+            "count": 38
+        },
+        {
+            "name": "Abhinav Krishnan",
+            "batch": 0,
+            "count": 38
+        },
+        {
+            "name": "Shreejee Agarwal",
+            "batch": 0,
+            "count": 36
+        },
+        {
+            "name": "Paavani Khanna",
+            "batch": 0,
+            "count": 15
+        },
+        {
+            "name": "Mohammed Burk",
+            "batch": 2017,
+            "count": 15
+        },
+        {
+            "name": "Manish Kumar",
+            "batch": 0,
+            "count": 14
+        },
+        {
+            "name": "Vamsi BG",
+            "batch": 0,
+            "count": 11
+        },
+        {
+            "name": "Triyasha Ghosh Dastidar",
+            "batch": 2017,
+            "count": 11
+        },
+        {
+            "name": "Niharika Shankar",
+            "batch": 2017,
+            "count": 10
+        },
+        {
+            "name": "Jaya Pavan Yalamati",
+            "batch": 0,
+            "count": 8
+        },
+        {
+            "name": "Ishita Gupta",
+            "batch": 0,
+            "count": 6
+        },
+        {
+            "name": "Tushar Aggarwal",
+            "batch": 2017,
+            "count": 4
+        },
+        {
+            "name": "Swetha Mamidipoodi",
+            "batch": 0,
+            "count": 4
+        },
+        {
+            "name": "Venkata Tharun Gangula",
+            "batch": 2018,
+            "count": 4
+        },
+        {
+            "name": "Raghavendra Challawar",
+            "batch": 2017,
+            "count": 3
+        },
+        {
+            "name": "Harsha Sinha",
+            "batch": 2017,
+            "count": 2
+        },
+        {
+            "name": "Akshitha Reddy",
+            "batch": 0,
+            "count": 2
+        },
+        {
+            "name": "Anudeep Reddy",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Sharique Creates",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Chatrik Singh Mangat",
+            "batch": 0,
+            "count": 0
+        }
+    ],
+    "gif_offenders": [
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 51
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 44
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 21
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 19
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 17
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 15
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 14
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 14
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 14
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 11
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 10
+        },
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 6
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 5
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 5
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 5
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 4
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 4
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 3
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 2
+        },
+        {
+            "name": "Harsha Sista",
+            "batch": 2016,
+            "count": 2
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 2
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 2
+        },
+        {
+            "name": "Sriya Suri",
+            "batch": 2017,
+            "count": 1
+        },
+        {
+            "name": "Suhita Saha",
+            "batch": 2015,
+            "count": 0
+        },
+        {
+            "name": "Venkatesh Jaya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Akshitha Reddy",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Nikita Mandapati",
+            "batch": 2015,
+            "count": 0
+        },
+        {
+            "name": "Shanmukh Nama",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Meghna Chintalpudi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Swetha Mamidipoodi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sinha",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Manish Kumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Vamsi Nallapareddy",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Kaushik Sathishkumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Asha Cherukuri",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Aishwarya Rebelly",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Raghavendra Challawar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Sanath Salil",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Anudeep Reddy",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Ramana Sriram",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Chatrik Singh Mangat",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Mohammed Burk",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Akshay Tiwari",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Tushar Aggarwal",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Abhinav Krishnan",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Niharika Shankar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Vamsi BG",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Mrunalini Ramnath",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Paavani Khanna",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Shreejee Agarwal",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Monith Sourya",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Shashank Sistla",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Abhimanyu Dasgupta",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Prajjwal Vijaywargiya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Aditya Ramaswami",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Jaya Pavan Yalamati",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Shuddhabho Nandi",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Adithya Warrier",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Yogitha Garlapati",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Maithree Venkatesan",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Triyasha Ghosh Dastidar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Venkata Tharun Gangula",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Ishita Gupta",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sharique Creates",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Tarun Agrawal",
+            "batch": 2018,
+            "count": 0
+        }
+    ],
+    "photo_people": [
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 671
+        },
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 490
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 381
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 333
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 333
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 321
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 313
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 263
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 252
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 249
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 201
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 143
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 114
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 98
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 85
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 75
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 71
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 54
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 52
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 44
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 34
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 32
+        },
+        {
+            "name": "Harsha Sista",
+            "batch": 2016,
+            "count": 28
+        },
+        {
+            "name": "Shuddhabho Nandi",
+            "batch": 2018,
+            "count": 23
+        },
+        {
+            "name": "Abhimanyu Dasgupta",
+            "batch": 2017,
+            "count": 21
+        },
+        {
+            "name": "Nikita Mandapati",
+            "batch": 2015,
+            "count": 18
+        },
+        {
+            "name": "Tarun Agrawal",
+            "batch": 2018,
+            "count": 12
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 12
+        },
+        {
+            "name": "Shanmukh Nama",
+            "batch": 2016,
+            "count": 10
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 8
+        },
+        {
+            "name": "Sanath Salil",
+            "batch": 2018,
+            "count": 7
+        },
+        {
+            "name": "Shashank Sistla",
+            "batch": 2017,
+            "count": 7
+        },
+        {
+            "name": "Aishwarya Rebelly",
+            "batch": 2016,
+            "count": 6
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 5
+        },
+        {
+            "name": "Suhita Saha",
+            "batch": 2015,
+            "count": 4
+        },
+        {
+            "name": "Mrunalini Ramnath",
+            "batch": 2017,
+            "count": 3
+        },
+        {
+            "name": "Shreejee Agarwal",
+            "batch": 0,
+            "count": 2
+        },
+        {
+            "name": "Asha Cherukuri",
+            "batch": 0,
+            "count": 2
+        },
+        {
+            "name": "Maithree Venkatesan",
+            "batch": 2018,
+            "count": 2
+        },
+        {
+            "name": "Monith Sourya",
+            "batch": 2016,
+            "count": 2
+        },
+        {
+            "name": "Adithya Warrier",
+            "batch": 2018,
+            "count": 2
+        },
+        {
+            "name": "Vamsi BG",
+            "batch": 0,
+            "count": 1
+        },
+        {
+            "name": "Akshay Tiwari",
+            "batch": 2018,
+            "count": 1
+        },
+        {
+            "name": "Aditya Ramaswami",
+            "batch": 2016,
+            "count": 1
+        },
+        {
+            "name": "Ramana Sriram",
+            "batch": 2018,
+            "count": 1
+        },
+        {
+            "name": "Jaya Pavan Yalamati",
+            "batch": 0,
+            "count": 1
+        },
+        {
+            "name": "Niharika Shankar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Abhinav Krishnan",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Swetha Mamidipoodi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Meghna Chintalpudi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Raghavendra Challawar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Prajjwal Vijaywargiya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Kaushik Sathishkumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Paavani Khanna",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Anudeep Reddy",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Tushar Aggarwal",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Vamsi Nallapareddy",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Manish Kumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sinha",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Triyasha Ghosh Dastidar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Chatrik Singh Mangat",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Mohammed Burk",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Yogitha Garlapati",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Venkatesh Jaya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sriya Suri",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Venkata Tharun Gangula",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Ishita Gupta",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sharique Creates",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Akshitha Reddy",
+            "batch": 0,
+            "count": 0
+        }
+    ],
+    "top_foul_mouthed": [
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 1361
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 1218
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 755
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 534
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 481
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 406
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 399
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 361
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 334
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 310
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 308
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 275
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 271
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 201
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 200
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 195
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 188
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 177
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 155
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 87
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 77
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 74
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 73
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 69
+        },
+        {
+            "name": "Shuddhabho Nandi",
+            "batch": 2018,
+            "count": 57
+        },
+        {
+            "name": "Abhimanyu Dasgupta",
+            "batch": 2017,
+            "count": 39
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 38
+        },
+        {
+            "name": "Shashank Sistla",
+            "batch": 2017,
+            "count": 37
+        },
+        {
+            "name": "Nikita Mandapati",
+            "batch": 2015,
+            "count": 27
+        },
+        {
+            "name": "Harsha Sista",
+            "batch": 2016,
+            "count": 27
+        },
+        {
+            "name": "Sriya Suri",
+            "batch": 2017,
+            "count": 24
+        },
+        {
+            "name": "Suhita Saha",
+            "batch": 2015,
+            "count": 22
+        },
+        {
+            "name": "Mrunalini Ramnath",
+            "batch": 2017,
+            "count": 19
+        },
+        {
+            "name": "Kaushik Sathishkumar",
+            "batch": 0,
+            "count": 16
+        },
+        {
+            "name": "Vamsi Nallapareddy",
+            "batch": 2017,
+            "count": 15
+        },
+        {
+            "name": "Aditya Ramaswami",
+            "batch": 2016,
+            "count": 12
+        },
+        {
+            "name": "Asha Cherukuri",
+            "batch": 0,
+            "count": 12
+        },
+        {
+            "name": "Shanmukh Nama",
+            "batch": 2016,
+            "count": 11
+        },
+        {
+            "name": "Sanath Salil",
+            "batch": 2018,
+            "count": 9
+        },
+        {
+            "name": "Tarun Agrawal",
+            "batch": 2018,
+            "count": 8
+        },
+        {
+            "name": "Monith Sourya",
+            "batch": 2016,
+            "count": 6
+        },
+        {
+            "name": "Aishwarya Rebelly",
+            "batch": 2016,
+            "count": 3
+        },
+        {
+            "name": "Adithya Warrier",
+            "batch": 2018,
+            "count": 2
+        },
+        {
+            "name": "Ramana Sriram",
+            "batch": 2018,
+            "count": 2
+        },
+        {
+            "name": "Mohammed Burk",
+            "batch": 2017,
+            "count": 1
+        },
+        {
+            "name": "Meghna Chintalpudi",
+            "batch": 0,
+            "count": 1
+        },
+        {
+            "name": "Venkatesh Jaya",
+            "batch": 0,
+            "count": 1
+        },
+        {
+            "name": "Prajjwal Vijaywargiya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Niharika Shankar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Vamsi BG",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Swetha Mamidipoodi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Chatrik Singh Mangat",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Anudeep Reddy",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Triyasha Ghosh Dastidar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Raghavendra Challawar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Shreejee Agarwal",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Paavani Khanna",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Tushar Aggarwal",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Jaya Pavan Yalamati",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Manish Kumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Akshay Tiwari",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sinha",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Yogitha Garlapati",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Maithree Venkatesan",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Abhinav Krishnan",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Venkata Tharun Gangula",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Ishita Gupta",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sharique Creates",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Akshitha Reddy",
+            "batch": 0,
+            "count": 0
+        }
+    ],
+    "basic_no_u_responders": [
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 243
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 84
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 61
+        },
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 47
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 32
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 32
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 32
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 29
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 25
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 22
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 22
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 18
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 14
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 8
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 8
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 5
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 5
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 4
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 3
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 3
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 3
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 3
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 2
+        },
+        {
+            "name": "Mrunalini Ramnath",
+            "batch": 2017,
+            "count": 1
+        },
+        {
+            "name": "Shuddhabho Nandi",
+            "batch": 2018,
+            "count": 1
+        },
+        {
+            "name": "Vamsi Nallapareddy",
+            "batch": 2017,
+            "count": 1
+        },
+        {
+            "name": "Abhimanyu Dasgupta",
+            "batch": 2017,
+            "count": 1
+        },
+        {
+            "name": "Adithya Warrier",
+            "batch": 2018,
+            "count": 1
+        },
+        {
+            "name": "Tarun Agrawal",
+            "batch": 2018,
+            "count": 1
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 1
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 1
+        },
+        {
+            "name": "Suhita Saha",
+            "batch": 2015,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sinha",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Kaushik Sathishkumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Meghna Chintalpudi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Asha Cherukuri",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sriya Suri",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Aishwarya Rebelly",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Raghavendra Challawar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Sanath Salil",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Anudeep Reddy",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Nikita Mandapati",
+            "batch": 2015,
+            "count": 0
+        },
+        {
+            "name": "Venkatesh Jaya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Chatrik Singh Mangat",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Mohammed Burk",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Akshay Tiwari",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sista",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Abhinav Krishnan",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Niharika Shankar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Vamsi BG",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Swetha Mamidipoodi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Triyasha Ghosh Dastidar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Aditya Ramaswami",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Prajjwal Vijaywargiya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Shashank Sistla",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Shreejee Agarwal",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Paavani Khanna",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Tushar Aggarwal",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Jaya Pavan Yalamati",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Manish Kumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Shanmukh Nama",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Monith Sourya",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Yogitha Garlapati",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Maithree Venkatesan",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Ramana Sriram",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Venkata Tharun Gangula",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Ishita Gupta",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sharique Creates",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Akshitha Reddy",
+            "batch": 0,
+            "count": 0
+        }
+    ],
+    "nick_changers": [
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 323
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 163
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 162
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 106
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 97
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 95
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 60
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 56
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 51
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 48
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 41
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 41
+        },
+        {
+            "name": "Shuddhabho Nandi",
+            "batch": 2018,
+            "count": 32
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 18
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 17
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 14
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 14
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 13
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 8
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 8
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 6
+        },
+        {
+            "name": "Shreejee Agarwal",
+            "batch": 0,
+            "count": 5
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 3
+        },
+        {
+            "name": "Abhimanyu Dasgupta",
+            "batch": 2017,
+            "count": 3
+        },
+        {
+            "name": "Harsha Sista",
+            "batch": 2016,
+            "count": 2
+        },
+        {
+            "name": "Raghavendra Challawar",
+            "batch": 2017,
+            "count": 2
+        },
+        {
+            "name": "Sanath Salil",
+            "batch": 2018,
+            "count": 1
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 1
+        },
+        {
+            "name": "Shanmukh Nama",
+            "batch": 2016,
+            "count": 1
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 1
+        },
+        {
+            "name": "Tarun Agrawal",
+            "batch": 2018,
+            "count": 1
+        },
+        {
+            "name": "Shashank Sistla",
+            "batch": 2017,
+            "count": 1
+        },
+        {
+            "name": "Mrunalini Ramnath",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sinha",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Swetha Mamidipoodi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Asha Cherukuri",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sriya Suri",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Aishwarya Rebelly",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Meghna Chintalpudi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Nikita Mandapati",
+            "batch": 2015,
+            "count": 0
+        },
+        {
+            "name": "Anudeep Reddy",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Venkatesh Jaya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Suhita Saha",
+            "batch": 2015,
+            "count": 0
+        },
+        {
+            "name": "Chatrik Singh Mangat",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Mohammed Burk",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Akshay Tiwari",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Triyasha Ghosh Dastidar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Abhinav Krishnan",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Niharika Shankar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Vamsi BG",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Kaushik Sathishkumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Aditya Ramaswami",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Prajjwal Vijaywargiya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Paavani Khanna",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Tushar Aggarwal",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Vamsi Nallapareddy",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Jaya Pavan Yalamati",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Manish Kumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Monith Sourya",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Adithya Warrier",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Yogitha Garlapati",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Maithree Venkatesan",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Ramana Sriram",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Venkata Tharun Gangula",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Ishita Gupta",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sharique Creates",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Akshitha Reddy",
+            "batch": 0,
+            "count": 0
+        }
+    ],
+    "highly_reactive": [
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 12809
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 6839
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 5530
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 9707
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 4951
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 11372
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 3080
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 4435
+        },
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 19438
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 8566
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 18556
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 5722
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 4183
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 4932
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 5291
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 8764
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 1523
+        },
+        {
+            "name": "Shuddhabho Nandi",
+            "batch": 2018,
+            "count": 725
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 9560
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 2393
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 2425
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 1722
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 2528
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 1557
+        },
+        {
+            "name": "Abhimanyu Dasgupta",
+            "batch": 2017,
+            "count": 700
+        },
+        {
+            "name": "Harsha Sista",
+            "batch": 2016,
+            "count": 906
+        },
+        {
+            "name": "Tarun Agrawal",
+            "batch": 2018,
+            "count": 231
+        },
+        {
+            "name": "Adithya Warrier",
+            "batch": 2018,
+            "count": 15
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 1527
+        },
+        {
+            "name": "Nikita Mandapati",
+            "batch": 2015,
+            "count": 704
+        },
+        {
+            "name": "Yogitha Garlapati",
+            "batch": 2018,
+            "count": 26
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 833
+        },
+        {
+            "name": "Shashank Sistla",
+            "batch": 2017,
+            "count": 514
+        },
+        {
+            "name": "Suhita Saha",
+            "batch": 2015,
+            "count": 455
+        },
+        {
+            "name": "Mrunalini Ramnath",
+            "batch": 2017,
+            "count": 510
+        },
+        {
+            "name": "Kaushik Sathishkumar",
+            "batch": 0,
+            "count": 119
+        },
+        {
+            "name": "Aishwarya Rebelly",
+            "batch": 2016,
+            "count": 392
+        },
+        {
+            "name": "Sriya Suri",
+            "batch": 2017,
+            "count": 497
+        },
+        {
+            "name": "Sanath Salil",
+            "batch": 2018,
+            "count": 149
+        },
+        {
+            "name": "Ramana Sriram",
+            "batch": 2018,
+            "count": 40
+        },
+        {
+            "name": "Maithree Venkatesan",
+            "batch": 2018,
+            "count": 57
+        },
+        {
+            "name": "Paavani Khanna",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Vamsi Nallapareddy",
+            "batch": 2017,
+            "count": 339
+        },
+        {
+            "name": "Akshay Tiwari",
+            "batch": 2018,
+            "count": 26
+        },
+        {
+            "name": "Abhinav Krishnan",
+            "batch": 0,
+            "count": 37
+        },
+        {
+            "name": "Monith Sourya",
+            "batch": 2016,
+            "count": 277
+        },
+        {
+            "name": "Shanmukh Nama",
+            "batch": 2016,
+            "count": 353
+        },
+        {
+            "name": "Venkatesh Jaya",
+            "batch": 0,
+            "count": 31
+        },
+        {
+            "name": "Mohammed Burk",
+            "batch": 2017,
+            "count": 7
+        },
+        {
+            "name": "Meghna Chintalpudi",
+            "batch": 0,
+            "count": 16
+        },
+        {
+            "name": "Niharika Shankar",
+            "batch": 2017,
+            "count": 8
+        },
+        {
+            "name": "Manish Kumar",
+            "batch": 0,
+            "count": 3
+        },
+        {
+            "name": "Shreejee Agarwal",
+            "batch": 0,
+            "count": 30
+        },
+        {
+            "name": "Asha Cherukuri",
+            "batch": 0,
+            "count": 70
+        },
+        {
+            "name": "Venkata Tharun Gangula",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Jaya Pavan Yalamati",
+            "batch": 0,
+            "count": 7
+        },
+        {
+            "name": "Aditya Ramaswami",
+            "batch": 2016,
+            "count": 118
+        },
+        {
+            "name": "Raghavendra Challawar",
+            "batch": 2017,
+            "count": 2
+        },
+        {
+            "name": "Swetha Mamidipoodi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sinha",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Prajjwal Vijaywargiya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Triyasha Ghosh Dastidar",
+            "batch": 2017,
+            "count": 8
+        },
+        {
+            "name": "Vamsi BG",
+            "batch": 0,
+            "count": 6
+        },
+        {
+            "name": "Akshitha Reddy",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Tushar Aggarwal",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Ishita Gupta",
+            "batch": 0,
+            "count": 1
+        },
+        {
+            "name": "Anudeep Reddy",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Sharique Creates",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Chatrik Singh Mangat",
+            "batch": 0,
+            "count": 0
+        }
+    ],
+    "quiters": [
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 14
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 13
+        },
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 9
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 5
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 5
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 4
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 4
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 4
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 3
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 1
+        },
+        {
+            "name": "Aishwarya Rebelly",
+            "batch": 2016,
+            "count": 1
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 1
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 1
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 1
+        },
+        {
+            "name": "Jaya Pavan Yalamati",
+            "batch": 0,
+            "count": 1
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Tushar Aggarwal",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Paavani Khanna",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Shreejee Agarwal",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Prajjwal Vijaywargiya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Aditya Ramaswami",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Triyasha Ghosh Dastidar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Suhita Saha",
+            "batch": 2015,
+            "count": 0
+        },
+        {
+            "name": "Venkatesh Jaya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Monith Sourya",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Nikita Mandapati",
+            "batch": 2015,
+            "count": 0
+        },
+        {
+            "name": "Akshitha Reddy",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Meghna Chintalpudi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Swetha Mamidipoodi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sinha",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 0
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Kaushik Sathishkumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Asha Cherukuri",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sriya Suri",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Shanmukh Nama",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Raghavendra Challawar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Sanath Salil",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Anudeep Reddy",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Manish Kumar",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Chatrik Singh Mangat",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Mohammed Burk",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Akshay Tiwari",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sista",
+            "batch": 2016,
+            "count": 0
+        },
+        {
+            "name": "Abhinav Krishnan",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Niharika Shankar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Vamsi BG",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Mrunalini Ramnath",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Vamsi Nallapareddy",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Shashank Sistla",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Abhimanyu Dasgupta",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Ramana Sriram",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Shuddhabho Nandi",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Adithya Warrier",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Yogitha Garlapati",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Maithree Venkatesan",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Venkata Tharun Gangula",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Ishita Gupta",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sharique Creates",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Tarun Agrawal",
+            "batch": 2018,
+            "count": 0
+        }
+    ],
+    "popular_folks": [
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 19438
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 18556
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 12809
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 11372
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 9707
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 9560
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 8764
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 8566
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 6839
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 5722
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 5530
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 5291
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 4951
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 4932
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 4435
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 4183
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 3080
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 2528
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 2425
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 2393
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 1722
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 1557
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 1527
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 1523
+        },
+        {
+            "name": "Harsha Sista",
+            "batch": 2016,
+            "count": 906
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 833
+        },
+        {
+            "name": "Shuddhabho Nandi",
+            "batch": 2018,
+            "count": 725
+        },
+        {
+            "name": "Nikita Mandapati",
+            "batch": 2015,
+            "count": 704
+        },
+        {
+            "name": "Abhimanyu Dasgupta",
+            "batch": 2017,
+            "count": 700
+        },
+        {
+            "name": "Shashank Sistla",
+            "batch": 2017,
+            "count": 514
+        },
+        {
+            "name": "Mrunalini Ramnath",
+            "batch": 2017,
+            "count": 510
+        },
+        {
+            "name": "Sriya Suri",
+            "batch": 2017,
+            "count": 497
+        },
+        {
+            "name": "Suhita Saha",
+            "batch": 2015,
+            "count": 455
+        },
+        {
+            "name": "Aishwarya Rebelly",
+            "batch": 2016,
+            "count": 392
+        },
+        {
+            "name": "Shanmukh Nama",
+            "batch": 2016,
+            "count": 353
+        },
+        {
+            "name": "Vamsi Nallapareddy",
+            "batch": 2017,
+            "count": 339
+        },
+        {
+            "name": "Monith Sourya",
+            "batch": 2016,
+            "count": 277
+        },
+        {
+            "name": "Tarun Agrawal",
+            "batch": 2018,
+            "count": 231
+        },
+        {
+            "name": "Sanath Salil",
+            "batch": 2018,
+            "count": 149
+        },
+        {
+            "name": "Kaushik Sathishkumar",
+            "batch": 0,
+            "count": 119
+        },
+        {
+            "name": "Aditya Ramaswami",
+            "batch": 2016,
+            "count": 118
+        },
+        {
+            "name": "Asha Cherukuri",
+            "batch": 0,
+            "count": 70
+        },
+        {
+            "name": "Maithree Venkatesan",
+            "batch": 2018,
+            "count": 57
+        },
+        {
+            "name": "Ramana Sriram",
+            "batch": 2018,
+            "count": 40
+        },
+        {
+            "name": "Abhinav Krishnan",
+            "batch": 0,
+            "count": 37
+        },
+        {
+            "name": "Venkatesh Jaya",
+            "batch": 0,
+            "count": 31
+        },
+        {
+            "name": "Shreejee Agarwal",
+            "batch": 0,
+            "count": 30
+        },
+        {
+            "name": "Yogitha Garlapati",
+            "batch": 2018,
+            "count": 26
+        },
+        {
+            "name": "Akshay Tiwari",
+            "batch": 2018,
+            "count": 26
+        },
+        {
+            "name": "Meghna Chintalpudi",
+            "batch": 0,
+            "count": 16
+        },
+        {
+            "name": "Adithya Warrier",
+            "batch": 2018,
+            "count": 15
+        },
+        {
+            "name": "Niharika Shankar",
+            "batch": 2017,
+            "count": 8
+        },
+        {
+            "name": "Triyasha Ghosh Dastidar",
+            "batch": 2017,
+            "count": 8
+        },
+        {
+            "name": "Mohammed Burk",
+            "batch": 2017,
+            "count": 7
+        },
+        {
+            "name": "Jaya Pavan Yalamati",
+            "batch": 0,
+            "count": 7
+        },
+        {
+            "name": "Vamsi BG",
+            "batch": 0,
+            "count": 6
+        },
+        {
+            "name": "Manish Kumar",
+            "batch": 0,
+            "count": 3
+        },
+        {
+            "name": "Raghavendra Challawar",
+            "batch": 2017,
+            "count": 2
+        },
+        {
+            "name": "Ishita Gupta",
+            "batch": 0,
+            "count": 1
+        },
+        {
+            "name": "Chatrik Singh Mangat",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Prajjwal Vijaywargiya",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Swetha Mamidipoodi",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Harsha Sinha",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Tushar Aggarwal",
+            "batch": 2017,
+            "count": 0
+        },
+        {
+            "name": "Anudeep Reddy",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Venkata Tharun Gangula",
+            "batch": 2018,
+            "count": 0
+        },
+        {
+            "name": "Paavani Khanna",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Sharique Creates",
+            "batch": 0,
+            "count": 0
+        },
+        {
+            "name": "Akshitha Reddy",
+            "batch": 0,
+            "count": 0
+        }
+    ],
+    "photo_people_per_message": [
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 0.12713241267262387
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 0.06872294372294373
+        },
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 0.0534167468719923
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 0.03640642303433001
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 0.03096595285780311
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 0.02892116719106935
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 0.023653928114789034
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 0.023249377248823692
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 0.022443890274314215
+        },
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 0.02079002079002079
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 0.019213503321960854
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 0.01464354527938343
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 0.014445669199976793
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 0.013315951205885091
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 0.013134629957059864
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 0.012526464361326747
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 0.011473646468268197
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 0.011168091168091168
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 0.010110020814748736
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 0.008600469116497263
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 0.008450984291111553
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 0.008348174532502226
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 0.007481296758104738
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 0.005988023952095809
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 0.002346316283435007
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "top_foul_mouthed_per_message": [
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 0.06512672441450112
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 0.060854700854700856
+        },
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 0.05774534345962917
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 0.05763473053892216
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 0.05591630591630592
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 0.05557547508067408
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 0.05362977695695411
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 0.05249773716650145
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 0.04925486233897449
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 0.04851799576570219
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 0.04782262875323126
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 0.046234772978959025
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 0.046134663341645885
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 0.04082590333176912
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 0.039093041438623924
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 0.03096595285780311
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 0.030164737310774712
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 0.028415905526340067
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 0.028025995125913892
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 0.024149004495825306
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 0.023882205063745734
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 0.021706809396372286
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 0.020943319603179206
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 0.0164819815625291
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 0.015793848711554447
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "popular_folks_per_message": [
+        {
+            "name": "Rohitt Vashishtha",
+            "batch": 2015,
+            "count": 1.3740776387552134
+        },
+        {
+            "name": "Musaiyab Ali Mirza",
+            "batch": 2016,
+            "count": 0.9987464387464388
+        },
+        {
+            "name": "Shanmukh Kali Prasad",
+            "batch": 2017,
+            "count": 0.9756527875793931
+        },
+        {
+            "name": "Aditya Gayatri Sastry Kaipa",
+            "batch": 2017,
+            "count": 0.9719740048740861
+        },
+        {
+            "name": "Vinith Bhandari",
+            "batch": 2016,
+            "count": 0.9706982543640897
+        },
+        {
+            "name": "Ananya Mohapatra",
+            "batch": 2018,
+            "count": 0.8955623212473476
+        },
+        {
+            "name": "Siddharth Sampath",
+            "batch": 2017,
+            "count": 0.8930375180375181
+        },
+        {
+            "name": "Kushagra K Chanda",
+            "batch": 2015,
+            "count": 0.8247273961559676
+        },
+        {
+            "name": "Karthik Nagaraj",
+            "batch": 2016,
+            "count": 0.8080713280150165
+        },
+        {
+            "name": "Tushar Kanth",
+            "batch": 2015,
+            "count": 0.7997931123658463
+        },
+        {
+            "name": "Rushabh Musthyala",
+            "batch": 2018,
+            "count": 0.7920819490586932
+        },
+        {
+            "name": "Saandra Nandakumar",
+            "batch": 2018,
+            "count": 0.751709782931906
+        },
+        {
+            "name": "Chellapilla Shri Akhil",
+            "batch": 2015,
+            "count": 0.7431107501305332
+        },
+        {
+            "name": "Adarsh Mishra",
+            "batch": 2018,
+            "count": 0.6832537359420736
+        },
+        {
+            "name": "Archana Swaminathan",
+            "batch": 2016,
+            "count": 0.6806727718920214
+        },
+        {
+            "name": "Palak Oswal",
+            "batch": 2015,
+            "count": 0.6796403339755941
+        },
+        {
+            "name": "Viswanatha Kasyap Pasumarthy",
+            "batch": 2015,
+            "count": 0.6790737320642136
+        },
+        {
+            "name": "Rohit Dwivedula",
+            "batch": 2017,
+            "count": 0.6368376943849521
+        },
+        {
+            "name": "Eishita Tripathi",
+            "batch": 2018,
+            "count": 0.6330008312551954
+        },
+        {
+            "name": "Tejas Vaid",
+            "batch": 2017,
+            "count": 0.6235029940119761
+        },
+        {
+            "name": "Nivedan Vishwanath",
+            "batch": 2018,
+            "count": 0.612528416266734
+        },
+        {
+            "name": "Poornima Venkatapuram",
+            "batch": 2017,
+            "count": 0.6020328381548085
+        },
+        {
+            "name": "Sandeep Jimmy",
+            "batch": 2017,
+            "count": 0.547508067407673
+        },
+        {
+            "name": "Vedika Kulkarni",
+            "batch": 2017,
+            "count": 0.4903559355736727
+        },
+        {
+            "name": "Shreyam Kumar",
+            "batch": 2017,
+            "count": 0.4656055209260908
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ]
+}
