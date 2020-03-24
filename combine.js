@@ -3,6 +3,7 @@ const fs = require('fs');
 const hindi_words = 'aand,aandu,balatkar,balatkari,behen chod,beti chod,bhadva,bhadve,bhandve,bhangi,bhootni ke,bhosad,bhosadi ke,boobe,chakke,chinaal,chinki,chod,chodu,chodu bhagat,chooche,choochi,choope,choot,choot ke baal,chootia,chootiya,chuche,chuchi,chudaap,chudai khanaa,chudam chudai,chude,chut,chut ka chuha,chut ka churan,chut ka mail,chut ke baal,chut ke dhakkan,chut maarli,chutad,chutadd,chutan,chutia,chutiya,gaand,gaandfat,gaandmasti,gaandufad,gandfattu,gandu,gashti,gasti,ghassa,ghasti,gucchi,gucchu,harami,haramzade,hawas,hawas ke pujari,hijda,hijra,jhant,jhant chaatu,jhant ka keeda,jhant ke baal,jhant ke pissu,jhantu,kamine,kaminey,kanjar,kutta,kutta kamina,kutte ki aulad,kutte ki jat,kuttiya,loda,lodu,lund,lund choos,lund ka bakkal,lund khajoor,lundtopi,lundure,maa ki chut,maal,madar chod,mooh mein le,mutth,mutthal,najayaz,najayaz aulaad,najayaz paidaish,paki,pataka,patakha,raand,randaap,randi,randi rona,saala,saala kutta,saali kutti,saali randi,suar,suar ke lund,suar ki aulad,tatte,tatti,teri maa ka bhosada,teri maa ka boba chusu,teri maa ki behenchod ,teri maa ki chut,tharak,tharki,tu chuda'.split(',');
 
 const all_participants = require('./participants');
+const separator_string = '='.repeat('65');
 
 const get_data = (batch) => {
     const json_files = [];
@@ -118,7 +119,7 @@ let stats = {};
 
 const print_stat_by_batch = (store, key, stat_name) => {
     let data = store[stat_name];
-    console.log(`\n====================================\n${key}    ${stat_name} by batch\n`);
+    console.log(`\n${separator_string}\n${key}    ${stat_name} by batch\n`);
     const batches = [2015, 2016, 2017, 2018];
     batches.forEach(batch => {
         const new_data = data.filter(e => {
@@ -137,7 +138,7 @@ const store_and_print_list = (store, key, stat_name, people, messages, limit=20,
         data = get_people_by_popularity_count(people, messages);
     }
     store[stat_name] = data;
-    console.log(`\n====================================\n${key}    ${stat_name}\n`);
+    console.log(`\n${separator_string}\n${key}    ${stat_name}\n`);
     print_people_list(data, limit, other_name);
 };
 
@@ -160,7 +161,7 @@ print_per_message_stats = (store, key, stat_name) => {
         return b.count - a.count;
     });
     store[`${stat_name}_per_message`] = data;
-    console.log(`\n====================================\n${key}    ${stat_name}_per_message\n`);
+    console.log(`\n${separator_string}\n${key}    ${stat_name}_per_message\n`);
     print_people_list(data, 25, "Everone Else", true);
 }
 
@@ -205,7 +206,7 @@ const compute = (opts={}) => {
     });
 
     if (opts.title) {
-        console.log(`\n====================================\n${opts.title}\n====================================\n`);
+        console.log(`\n${separator_string}\n${opts.title}\n${separator_string}\n`);
     }
     let store = {};
     store_and_print_list(store, opts.key, 'top_messagers', people, content_messages);
