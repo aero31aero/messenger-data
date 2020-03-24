@@ -2,79 +2,7 @@ const fs = require('fs');
 
 const hindi_words = 'aand,aandu,balatkar,balatkari,behen chod,beti chod,bhadva,bhadve,bhandve,bhangi,bhootni ke,bhosad,bhosadi ke,boobe,chakke,chinaal,chinki,chod,chodu,chodu bhagat,chooche,choochi,choope,choot,choot ke baal,chootia,chootiya,chuche,chuchi,chudaap,chudai khanaa,chudam chudai,chude,chut,chut ka chuha,chut ka churan,chut ka mail,chut ke baal,chut ke dhakkan,chut maarli,chutad,chutadd,chutan,chutia,chutiya,gaand,gaandfat,gaandmasti,gaandufad,gandfattu,gandu,gashti,gasti,ghassa,ghasti,gucchi,gucchu,harami,haramzade,hawas,hawas ke pujari,hijda,hijra,jhant,jhant chaatu,jhant ka keeda,jhant ke baal,jhant ke pissu,jhantu,kamine,kaminey,kanjar,kutta,kutta kamina,kutte ki aulad,kutte ki jat,kuttiya,loda,lodu,lund,lund choos,lund ka bakkal,lund khajoor,lundtopi,lundure,maa ki chut,maal,madar chod,mooh mein le,mutth,mutthal,najayaz,najayaz aulaad,najayaz paidaish,paki,pataka,patakha,raand,randaap,randi,randi rona,saala,saala kutta,saali kutti,saali randi,suar,suar ke lund,suar ki aulad,tatte,tatti,teri maa ka bhosada,teri maa ka boba chusu,teri maa ki behenchod ,teri maa ki chut,tharak,tharki,tu chuda'.split(',');
 
-const get_participant_map = () => {
-    const data = [
-        { name: 'Rohitt Vashishtha', batch: 2015 },
-        { name: 'Karthik Nagaraj', batch: 2016 },
-        { name: 'Ramana Sriram', batch: 2018 },
-        { name: 'Monith Sourya', batch: 2016 },
-        { name: 'Ananya Mohapatra', batch: 2018 },
-        { name: 'Shanmukh Nama', batch: 2016 },
-        { name: 'Musaiyab Ali Mirza', batch: 2016 },
-        { name: 'Kushagra K Chanda', batch: 2015 },
-        { name: 'Viswanatha Kasyap Pasumarthy', batch: 2015 },
-        { name: 'Sandeep Jimmy', batch: 2017 },
-        { name: 'Vedika Kulkarni', batch: 2017 },
-        { name: 'Manish Kumar', batch: 2017 },
-        { name: 'Vamsi Nallapareddy', batch: 2017 },
-        { name: 'Chellapilla Shri Akhil', batch: 2015 },
-        { name: 'Rushabh Musthyala', batch: 2018 },
-        { name: 'Vinith Bhandari', batch: 2016 },
-        { name: 'Tushar Aggarwal', batch: 2017 },
-        { name: 'Paavani Khanna', batch: 2018 },
-        { name: 'Shreejee Agarwal', batch: 2018 },
-        { name: 'Nivedan Vishwanath', batch: 2018 },
-        { name: 'Prajjwal Vijaywargiya', batch: 2017 },
-        { name: 'Aditya Ramaswami', batch: 2016 },
-        { name: 'Triyasha Ghosh Dastidar', batch: 2017 },
-        { name: 'Suhita Saha', batch: 2015 },
-        { name: 'Venkatesh Jaya', batch: 2017 },
-        { name: 'Palak Oswal', batch: 2015 },
-        { name: 'Nikita Mandapati', batch: 2015 },
-        { name: 'Shanmukh Kali Prasad', batch: 2017 },
-        { name: 'Meghna Chintalpudi', batch: 2018 },
-        { name: 'Swetha Mamidipoodi', batch: 2018 },
-        { name: 'Harsha Sinha', batch: 2017 },
-        { name: 'Tushar Kanth', batch: 2015 },
-        { name: 'Archana Swaminathan', batch: 2016 },
-        { name: 'Kaushik Sathishkumar', batch: 2018 },
-        { name: 'Tarun Agrawal', batch: 2018 },
-        { name: 'Asha Cherukuri', batch: 2017 },
-        { name: 'Sriya Suri', batch: 2017 },
-        { name: 'Aishwarya Rebelly', batch: 2016 },
-        { name: 'Raghavendra Challawar', batch: 2017 },
-        { name: 'Sanath Salil', batch: 2018 },
-        { name: 'Anudeep Reddy', batch: 2018 },
-        { name: 'Tejas Vaid', batch: 2017 },
-        { name: 'Adarsh Mishra', batch: 2018 },
-        { name: 'Chatrik Singh Mangat', batch: 2017 },
-        { name: 'Mohammed Burk', batch: 2017 },
-        { name: 'Akshay Tiwari', batch: 2018 },
-        { name: 'Harsha Sista', batch: 2016 },
-        { name: 'Abhinav Krishnan', batch: 2018 },
-        { name: 'Niharika Shankar', batch: 2017 },
-        { name: 'Vamsi BG', batch: 2017 },
-        { name: 'Mrunalini Ramnath', batch: 2017 },
-        { name: 'Rohit Dwivedula', batch: 2017 },
-        { name: 'Aditya Gayatri Sastry Kaipa', batch: 2017 },
-        { name: 'Siddharth Sampath', batch: 2017 },
-        { name: 'Shashank Sistla', batch: 2017 },
-        { name: 'Abhimanyu Dasgupta', batch: 2017 },
-        { name: 'Poornima Venkatapuram', batch: 2017 },
-        { name: 'Shreyam Kumar', batch: 2017 },
-        { name: 'Jaya Pavan Yalamati', batch: 2018 },
-        { name: 'Eishita Tripathi', batch: 2018 },
-        { name: 'Shuddhabho Nandi', batch: 2018 },
-        { name: 'Adithya Warrier', batch: 2018 },
-        { name: 'Yogitha Garlapati', batch: 2018 },
-        { name: 'Maithree Venkatesan', batch: 2018 },
-        { name: 'Saandra Nandakumar', batch: 2018 },
-        { name: 'Venkata Tharun Gangula', batch: 2018 },
-        { name: 'Ishita Gupta', batch: 2018 },
-        { name: 'Sharique Creates', batch: 2018 },
-        { name: 'Akshitha Reddy', batch: 2018 } ];
-    return data;
-}
+const all_participants = require('./participants');
 
 const get_data = () => {
     const json_files = [];
@@ -84,8 +12,7 @@ const get_data = () => {
         json_files.push(m);
 
     });
-    all_participants = get_participant_map()
-    all_messages = [];
+    let all_messages = [];
     json_files.forEach(e => {
         all_messages.push(...e.messages);
     });
