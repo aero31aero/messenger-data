@@ -1,0 +1,390 @@
+|==============================================================|==============================================================|==============================================================|
+|    Feb 2nd 2017 to Feb 2nd 2020.                             |    Feb 2nd 2020 to Mar 24th 2020.                            |    All Time                                                  |
+|==============================================================|==============================================================|==============================================================|
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    top_messagers                            |    till-quarantine-day-10    top_messagers                   |    all-time    top_messagers                                 |
+|                                                              |                                                              |                                                              |
+|     1    23569      Kushagra K Chanda                        |     1    6634       Chellapilla Shri Akhil                   |     1    27187      Tushar Kanth                             |
+|     2    23201      Tushar Kanth                             |     2    5339       Musaiyab Ali Mirza                       |     2    25630      Kushagra K Chanda                        |
+|     3    17237      Chellapilla Shri Akhil                   |     3    3986       Tushar Kanth                             |     3    23871      Chellapilla Shri Akhil                   |
+|     4    16707      Archana Swaminathan                      |     4    2764       Rohit Dwivedula                          |     4    19352      Archana Swaminathan                      |
+|     5    14078      Viswanatha Kasyap Pasumarthy             |     5    2645       Archana Swaminathan                      |     5    15312      Viswanatha Kasyap Pasumarthy             |
+|     6    10839      Ananya Mohapatra                         |     6    2247       Vedika Kulkarni                          |     6    14114      Musaiyab Ali Mirza                       |
+|     7    10739      Rohit Dwivedula                          |     7    2069       Rohitt Vashishtha                        |     7    13503      Rohit Dwivedula                          |
+|     8    10058      Vedika Kulkarni                          |     8    2061       Kushagra K Chanda                        |     8    12859      Ananya Mohapatra                         |
+|     9    8984       Shreyam Kumar                            |     9    2020       Ananya Mohapatra                         |     9    12305      Vedika Kulkarni                          |
+|    10    8775       Musaiyab Ali Mirza                       |    10    1958       Shanmukh Kali Prasad                     |    10    10372      Shreyam Kumar                            |
+|    11    7785       Palak Oswal                              |    11    1873       Siddharth Sampath                        |    11    8896       Palak Oswal                              |
+|    12    7224       Rushabh Musthyala                        |    12    1866       Poornima Venkatapuram                    |    12    8895       Rushabh Musthyala                        |
+|    13    6491       Adarsh Mishra                            |    13    1671       Rushabh Musthyala                        |    13    8303       Rohitt Vashishtha                        |
+|    14    6234       Rohitt Vashishtha                        |    14    1499       Aditya Gayatri Sastry Kaipa              |    14    7626       Shanmukh Kali Prasad                     |
+|    15    5668       Shanmukh Kali Prasad                     |    15    1388       Shreyam Kumar                            |    15    7417       Siddharth Sampath                        |
+|    16    5544       Siddharth Sampath                        |    16    1234       Viswanatha Kasyap Pasumarthy             |    16    7331       Adarsh Mishra                            |
+|    17    5116       Poornima Venkatapuram                    |    17    1145       Vinith Bhandari                          |    17    6982       Poornima Venkatapuram                    |
+|    18    3959       Nivedan Vishwanath                       |    18    1111       Palak Oswal                              |    18    4452       Nivedan Vishwanath                       |
+|    19    3363       Saandra Nandakumar                       |    19    942        Eishita Tripathi                         |    19    3961       Aditya Gayatri Sastry Kaipa              |
+|    20    2789       Sandeep Jimmy                            |    20    840        Adarsh Mishra                            |    20    3912       Saandra Nandakumar                       |
+|    21    19384      Everyone Else                            |    21    3038       Everyone Else                            |    21    23794      Everyone Else                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    gif_offenders                            |    till-quarantine-day-10    gif_offenders                   |    all-time    gif_offenders                                 |
+|                                                              |                                                              |                                                              |
+|     1    51         Viswanatha Kasyap Pasumarthy             |     1    21         Tushar Kanth                             |     1    65         Tushar Kanth                             |
+|     2    44         Tushar Kanth                             |     2    10         Rohitt Vashishtha                        |     2    55         Viswanatha Kasyap Pasumarthy             |
+|     3    21         Siddharth Sampath                        |     3    10         Ananya Mohapatra                         |     3    25         Ananya Mohapatra                         |
+|     4    19         Rushabh Musthyala                        |     4    6          Vedika Kulkarni                          |     4    24         Siddharth Sampath                        |
+|     5    17         Palak Oswal                              |     5    5          Chellapilla Shri Akhil                   |     5    20         Rohitt Vashishtha                        |
+|     6    15         Ananya Mohapatra                         |     6    4          Viswanatha Kasyap Pasumarthy             |     6    19         Rushabh Musthyala                        |
+|     7    14         Adarsh Mishra                            |     7    4          Adarsh Mishra                            |     7    19         Chellapilla Shri Akhil                   |
+|     8    14         Chellapilla Shri Akhil                   |     8    3          Shanmukh Kali Prasad                     |     8    18         Adarsh Mishra                            |
+|     9    14         Tejas Vaid                               |     9    3          Siddharth Sampath                        |     9    17         Palak Oswal                              |
+|    10    11         Aditya Gayatri Sastry Kaipa              |    10    2          Poornima Venkatapuram                    |    10    15         Tejas Vaid                               |
+|    11    10         Rohitt Vashishtha                        |    11    2          Rohit Dwivedula                          |    11    12         Aditya Gayatri Sastry Kaipa              |
+|    12    6          Kushagra K Chanda                        |    12    1          Aditya Gayatri Sastry Kaipa              |    12    10         Vedika Kulkarni                          |
+|    13    5          Shreyam Kumar                            |    13    1          Shanmukh Nama                            |    13    7          Poornima Venkatapuram                    |
+|    14    5          Poornima Venkatapuram                    |    14    1          Tejas Vaid                               |    14    6          Kushagra K Chanda                        |
+|    15    5          Sandeep Jimmy                            |    15    0          Rushabh Musthyala                        |    15    5          Shreyam Kumar                            |
+|    16    4          Saandra Nandakumar                       |    16    0          Vinith Bhandari                          |    16    5          Sandeep Jimmy                            |
+|    17    4          Vedika Kulkarni                          |    17    0          Tushar Aggarwal                          |    17    5          Shanmukh Kali Prasad                     |
+|    18    3          Rohit Dwivedula                          |    18    0          Paavani Khanna                           |    18    5          Rohit Dwivedula                          |
+|    19    2          Archana Swaminathan                      |    19    0          Shreejee Agarwal                         |    19    4          Saandra Nandakumar                       |
+|    20    2          Harsha Sista                             |    20    0          Nivedan Vishwanath                       |    20    2          Harsha Sista                             |
+|    21    5          Everyone Else                            |    21    0          Everyone Else                            |    21    6          Everyone Else                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    photo_people                             |    till-quarantine-day-10    photo_people                    |    all-time    photo_people                                  |
+|                                                              |                                                              |                                                              |
+|     1    671        Tushar Kanth                             |     1    187        Chellapilla Shri Akhil                   |     1    807        Tushar Kanth                             |
+|     2    490        Kushagra K Chanda                        |     2    136        Tushar Kanth                             |     2    549        Kushagra K Chanda                        |
+|     3    381        Siddharth Sampath                        |     3    131        Rushabh Musthyala                        |     3    496        Siddharth Sampath                        |
+|     4    333        Rohitt Vashishtha                        |     4    122        Rohitt Vashishtha                        |     4    455        Rohitt Vashishtha                        |
+|     5    333        Viswanatha Kasyap Pasumarthy             |     5    115        Siddharth Sampath                        |     5    436        Chellapilla Shri Akhil                   |
+|     6    321        Archana Swaminathan                      |     6    100        Aditya Gayatri Sastry Kaipa              |     6    413        Aditya Gayatri Sastry Kaipa              |
+|     7    313        Aditya Gayatri Sastry Kaipa              |     7    97         Musaiyab Ali Mirza                       |     7    404        Archana Swaminathan                      |
+|     8    263        Rushabh Musthyala                        |     8    83         Archana Swaminathan                      |     8    394        Rushabh Musthyala                        |
+|     9    252        Ananya Mohapatra                         |     9    83         Ananya Mohapatra                         |     9    368        Viswanatha Kasyap Pasumarthy             |
+|    10    249        Chellapilla Shri Akhil                   |    10    71         Rohit Dwivedula                          |    10    335        Ananya Mohapatra                         |
+|    11    201        Adarsh Mishra                            |    11    59         Kushagra K Chanda                        |    11    242        Adarsh Mishra                            |
+|    12    143        Rohit Dwivedula                          |    12    41         Vedika Kulkarni                          |    12    214        Rohit Dwivedula                          |
+|    13    114        Palak Oswal                              |    13    41         Adarsh Mishra                            |    13    195        Musaiyab Ali Mirza                       |
+|    14    98         Musaiyab Ali Mirza                       |    14    35         Viswanatha Kasyap Pasumarthy             |    14    148        Palak Oswal                              |
+|    15    85         Vedika Kulkarni                          |    15    34         Palak Oswal                              |    15    126        Vedika Kulkarni                          |
+|    16    75         Shreyam Kumar                            |    16    25         Vinith Bhandari                          |    16    91         Shanmukh Kali Prasad                     |
+|    17    71         Shanmukh Kali Prasad                     |    17    20         Shanmukh Kali Prasad                     |    17    89         Shreyam Kumar                            |
+|    18    54         Eishita Tripathi                         |    18    17         Nivedan Vishwanath                       |    18    69         Eishita Tripathi                         |
+|    19    52         Nivedan Vishwanath                       |    19    15         Eishita Tripathi                         |    19    69         Nivedan Vishwanath                       |
+|    20    44         Poornima Venkatapuram                    |    20    14         Shreyam Kumar                            |    20    55         Poornima Venkatapuram                    |
+|    21    245        Everyone Else                            |    21    44         Everyone Else                            |    21    303        Everyone Else                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    top_foul_mouthed                         |    till-quarantine-day-10    top_foul_mouthed                |    all-time    top_foul_mouthed                              |
+|                                                              |                                                              |                                                              |
+|     1    1361       Kushagra K Chanda                        |     1    226        Musaiyab Ali Mirza                       |     1    1491       Kushagra K Chanda                        |
+|     2    1218       Tushar Kanth                             |     2    209        Chellapilla Shri Akhil                   |     2    1386       Tushar Kanth                             |
+|     3    755        Viswanatha Kasyap Pasumarthy             |     3    168        Tushar Kanth                             |     3    831        Viswanatha Kasyap Pasumarthy             |
+|     4    534        Musaiyab Ali Mirza                       |     4    140        Rohitt Vashishtha                        |     4    760        Musaiyab Ali Mirza                       |
+|     5    481        Vedika Kulkarni                          |     5    130        Kushagra K Chanda                        |     5    570        Chellapilla Shri Akhil                   |
+|     6    406        Rohitt Vashishtha                        |     6    86         Rushabh Musthyala                        |     6    564        Vedika Kulkarni                          |
+|     7    399        Archana Swaminathan                      |     7    83         Vedika Kulkarni                          |     7    546        Rohitt Vashishtha                        |
+|     8    361        Chellapilla Shri Akhil                   |     8    83         Shanmukh Kali Prasad                     |     8    437        Archana Swaminathan                      |
+|     9    334        Rushabh Musthyala                        |     9    76         Viswanatha Kasyap Pasumarthy             |     9    420        Rushabh Musthyala                        |
+|    10    310        Siddharth Sampath                        |    10    74         Siddharth Sampath                        |    10    384        Siddharth Sampath                        |
+|    11    308        Ananya Mohapatra                         |    11    68         Shreyam Kumar                            |    11    367        Ananya Mohapatra                         |
+|    12    275        Shanmukh Kali Prasad                     |    12    59         Ananya Mohapatra                         |    12    358        Shanmukh Kali Prasad                     |
+|    13    271        Shreyam Kumar                            |    13    54         Poornima Venkatapuram                    |    13    339        Shreyam Kumar                            |
+|    14    201        Adarsh Mishra                            |    14    52         Rohit Dwivedula                          |    14    254        Poornima Venkatapuram                    |
+|    15    200        Poornima Venkatapuram                    |    15    48         Vinith Bhandari                          |    15    243        Adarsh Mishra                            |
+|    16    195        Nivedan Vishwanath                       |    16    42         Adarsh Mishra                            |    16    229        Rohit Dwivedula                          |
+|    17    188        Palak Oswal                              |    17    38         Archana Swaminathan                      |    17    225        Nivedan Vishwanath                       |
+|    18    177        Rohit Dwivedula                          |    18    32         Aditya Gayatri Sastry Kaipa              |    18    214        Palak Oswal                              |
+|    19    155        Sandeep Jimmy                            |    19    30         Nivedan Vishwanath                       |    19    161        Sandeep Jimmy                            |
+|    20    87         Karthik Nagaraj                          |    20    26         Palak Oswal                              |    20    122        Vinith Bhandari                          |
+|    21    682        Everyone Else                            |    21    120        Everyone Else                            |    21    841        Everyone Else                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    basic_no_u_responders                    |    till-quarantine-day-10    basic_no_u_responders           |    all-time    basic_no_u_responders                         |
+|                                                              |                                                              |                                                              |
+|     1    243        Palak Oswal                              |     1    21         Palak Oswal                              |     1    264        Palak Oswal                              |
+|     2    84         Archana Swaminathan                      |     2    18         Archana Swaminathan                      |     2    102        Archana Swaminathan                      |
+|     3    61         Rushabh Musthyala                        |     3    18         Tushar Kanth                             |     3    67         Rushabh Musthyala                        |
+|     4    47         Kushagra K Chanda                        |     4    9          Rohit Dwivedula                          |     4    50         Kushagra K Chanda                        |
+|     5    32         Shreyam Kumar                            |     5    8          Chellapilla Shri Akhil                   |     5    43         Tushar Kanth                             |
+|     6    32         Viswanatha Kasyap Pasumarthy             |     6    6          Rushabh Musthyala                        |     6    40         Chellapilla Shri Akhil                   |
+|     7    32         Chellapilla Shri Akhil                   |     7    3          Shreyam Kumar                            |     7    35         Shreyam Kumar                            |
+|     8    29         Ananya Mohapatra                         |     8    3          Vedika Kulkarni                          |     8    32         Viswanatha Kasyap Pasumarthy             |
+|     9    25         Tushar Kanth                             |     9    3          Ananya Mohapatra                         |     9    32         Ananya Mohapatra                         |
+|    10    22         Vedika Kulkarni                          |    10    3          Kushagra K Chanda                        |    10    31         Rohit Dwivedula                          |
+|    11    22         Rohit Dwivedula                          |    11    3          Poornima Venkatapuram                    |    11    25         Vedika Kulkarni                          |
+|    12    18         Shanmukh Kali Prasad                     |    12    3          Rohitt Vashishtha                        |    12    20         Shanmukh Kali Prasad                     |
+|    13    14         Eishita Tripathi                         |    13    2          Siddharth Sampath                        |    13    15         Eishita Tripathi                         |
+|    14    8          Adarsh Mishra                            |    14    2          Shanmukh Kali Prasad                     |    14    11         Poornima Venkatapuram                    |
+|    15    8          Poornima Venkatapuram                    |    15    1          Adarsh Mishra                            |    15    9          Adarsh Mishra                            |
+|    16    5          Saandra Nandakumar                       |    16    1          Kaushik Sathishkumar                     |    16    8          Rohitt Vashishtha                        |
+|    17    5          Rohitt Vashishtha                        |    17    1          Musaiyab Ali Mirza                       |    17    5          Saandra Nandakumar                       |
+|    18    4          Tejas Vaid                               |    18    1          Shanmukh Nama                            |    18    4          Musaiyab Ali Mirza                       |
+|    19    3          Nivedan Vishwanath                       |    19    1          Eishita Tripathi                         |    19    4          Siddharth Sampath                        |
+|    20    3          Sandeep Jimmy                            |    20    0          Nivedan Vishwanath                       |    20    4          Tejas Vaid                               |
+|    21    16         Everyone Else                            |    21    0          Everyone Else                            |    21    19         Everyone Else                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    nick_changers                            |    till-quarantine-day-10    nick_changers                   |    all-time    nick_changers                                 |
+|                                                              |                                                              |                                                              |
+|     1    323        Kushagra K Chanda                        |     1    348        Aditya Gayatri Sastry Kaipa              |     1    348        Aditya Gayatri Sastry Kaipa              |
+|     2    163        Rohit Dwivedula                          |     2    32         Musaiyab Ali Mirza                       |     2    323        Kushagra K Chanda                        |
+|     3    162        Rohitt Vashishtha                        |     3    19         Rohitt Vashishtha                        |     3    181        Rohitt Vashishtha                        |
+|     4    106        Musaiyab Ali Mirza                       |     4    16         Rohit Dwivedula                          |     4    179        Rohit Dwivedula                          |
+|     5    97         Ananya Mohapatra                         |     5    5          Chellapilla Shri Akhil                   |     5    138        Musaiyab Ali Mirza                       |
+|     6    95         Adarsh Mishra                            |     6    4          Tushar Kanth                             |     6    100        Ananya Mohapatra                         |
+|     7    60         Vedika Kulkarni                          |     7    3          Ananya Mohapatra                         |     7    96         Adarsh Mishra                            |
+|     8    56         Viswanatha Kasyap Pasumarthy             |     8    3          Shreyam Kumar                            |     8    61         Vedika Kulkarni                          |
+|     9    51         Tushar Kanth                             |     9    2          Shanmukh Kali Prasad                     |     9    57         Viswanatha Kasyap Pasumarthy             |
+|    10    48         Palak Oswal                              |    10    2          Siddharth Sampath                        |    10    55         Tushar Kanth                             |
+|    11    41         Archana Swaminathan                      |    11    1          Adarsh Mishra                            |    11    48         Palak Oswal                              |
+|    12    41         Shanmukh Kali Prasad                     |    12    1          Rushabh Musthyala                        |    12    43         Shanmukh Kali Prasad                     |
+|    13    32         Shuddhabho Nandi                         |    13    1          Viswanatha Kasyap Pasumarthy             |    13    42         Archana Swaminathan                      |
+|    14    18         Poornima Venkatapuram                    |    14    1          Vedika Kulkarni                          |    14    33         Shuddhabho Nandi                         |
+|    15    17         Shreyam Kumar                            |    15    1          Poornima Venkatapuram                    |    15    20         Shreyam Kumar                            |
+|    16    14         Nivedan Vishwanath                       |    16    1          Saandra Nandakumar                       |    16    19         Poornima Venkatapuram                    |
+|    17    14         Siddharth Sampath                        |    17    1          Shuddhabho Nandi                         |    17    16         Siddharth Sampath                        |
+|    18    13         Vinith Bhandari                          |    18    1          Archana Swaminathan                      |    18    14         Nivedan Vishwanath                       |
+|    19    8          Tejas Vaid                               |    19    0          Shreejee Agarwal                         |    19    13         Vinith Bhandari                          |
+|    20    8          Sandeep Jimmy                            |    20    0          Nivedan Vishwanath                       |    20    11         Chellapilla Shri Akhil                   |
+|    21    27         Everyone Else                            |    21    0          Everyone Else                            |    21    39         Everyone Else                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    highly_reactive                          |    till-quarantine-day-10    highly_reactive                 |    all-time    highly_reactive                               |
+|                                                              |                                                              |                                                              |
+|     1    18964      Chellapilla Shri Akhil                   |     1    6356       Chellapilla Shri Akhil                   |     1    25320      Chellapilla Shri Akhil                   |
+|     2    17614      Rohit Dwivedula                          |     2    3611       Siddharth Sampath                        |     2    20319      Rohit Dwivedula                          |
+|     3    13823      Shanmukh Kali Prasad                     |     3    3519       Musaiyab Ali Mirza                       |     3    16430      Shanmukh Kali Prasad                     |
+|     4    12808      Ananya Mohapatra                         |     4    2705       Rohit Dwivedula                          |     4    14521      Ananya Mohapatra                         |
+|     5    10231      Siddharth Sampath                        |     5    2607       Shanmukh Kali Prasad                     |     5    13842      Siddharth Sampath                        |
+|     6    8184       Archana Swaminathan                      |     6    2325       Poornima Venkatapuram                    |     6    9997       Archana Swaminathan                      |
+|     7    7648       Poornima Venkatapuram                    |     7    2084       Rohitt Vashishtha                        |     7    9973       Poornima Venkatapuram                    |
+|     8    7451       Adarsh Mishra                            |     8    1813       Archana Swaminathan                      |     8    8177       Rohitt Vashishtha                        |
+|     9    7265       Kushagra K Chanda                        |     9    1713       Ananya Mohapatra                         |     9    8033       Adarsh Mishra                            |
+|    10    6093       Rohitt Vashishtha                        |    10    1405       Aditya Gayatri Sastry Kaipa              |    10    7918       Kushagra K Chanda                        |
+|    11    5809       Tushar Kanth                             |    11    1221       Rushabh Musthyala                        |    11    7660       Musaiyab Ali Mirza                       |
+|    12    5419       Rushabh Musthyala                        |    12    1037       Vedika Kulkarni                          |    12    6766       Tushar Kanth                             |
+|    13    4843       Shreyam Kumar                            |    13    957        Tushar Kanth                             |    13    6640       Rushabh Musthyala                        |
+|    14    4732       Vedika Kulkarni                          |    14    933        Shreyam Kumar                            |    14    5776       Shreyam Kumar                            |
+|    15    4151       Palak Oswal                              |    15    928        Eishita Tripathi                         |    15    5769       Vedika Kulkarni                          |
+|    16    4141       Musaiyab Ali Mirza                       |    16    653        Kushagra K Chanda                        |    16    4500       Palak Oswal                              |
+|    17    3321       Eishita Tripathi                         |    17    599        Vinith Bhandari                          |    17    4249       Eishita Tripathi                         |
+|    18    2797       Shuddhabho Nandi                         |    18    582        Adarsh Mishra                            |    18    4087       Aditya Gayatri Sastry Kaipa              |
+|    19    2730       Viswanatha Kasyap Pasumarthy             |    19    426        Shuddhabho Nandi                         |    19    3223       Shuddhabho Nandi                         |
+|    20    2682       Aditya Gayatri Sastry Kaipa              |    20    423        Karthik Nagaraj                          |    20    2857       Viswanatha Kasyap Pasumarthy             |
+|    21    15220      Everyone Else                            |    21    1825       Everyone Else                            |    21    17591      Everyone Else                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    quiters                                  |    till-quarantine-day-10    quiters                         |    all-time    quiters                                       |
+|                                                              |                                                              |                                                              |
+|     1    14         Palak Oswal                              |     1    3          Chellapilla Shri Akhil                   |     1    15         Palak Oswal                              |
+|     2    13         Ananya Mohapatra                         |     2    2          Shanmukh Kali Prasad                     |     2    13         Ananya Mohapatra                         |
+|     3    9          Kushagra K Chanda                        |     3    1          Musaiyab Ali Mirza                       |     3    10         Kushagra K Chanda                        |
+|     4    5          Rohit Dwivedula                          |     4    1          Kushagra K Chanda                        |     4    6          Shanmukh Kali Prasad                     |
+|     5    5          Viswanatha Kasyap Pasumarthy             |     5    1          Palak Oswal                              |     5    6          Chellapilla Shri Akhil                   |
+|     6    4          Archana Swaminathan                      |     6    1          Adarsh Mishra                            |     6    5          Rohit Dwivedula                          |
+|     7    4          Shanmukh Kali Prasad                     |     7    1          Akshay Tiwari                            |     7    5          Viswanatha Kasyap Pasumarthy             |
+|     8    4          Rohitt Vashishtha                        |     8    0          Tarun Agrawal                            |     8    4          Archana Swaminathan                      |
+|     9    3          Chellapilla Shri Akhil                   |     9    0          Viswanatha Kasyap Pasumarthy             |     9    4          Rohitt Vashishtha                        |
+|    10    1          Vedika Kulkarni                          |    10    0          Sandeep Jimmy                            |    10    2          Adarsh Mishra                            |
+|    11    1          Aishwarya Rebelly                        |    11    0          Vedika Kulkarni                          |    11    2          Musaiyab Ali Mirza                       |
+|    12    1          Adarsh Mishra                            |    12    0          Manish Kumar                             |    12    1          Vedika Kulkarni                          |
+|    13    1          Musaiyab Ali Mirza                       |    13    0          Vamsi Nallapareddy                       |    13    1          Aishwarya Rebelly                        |
+|    14    1          Poornima Venkatapuram                    |    14    0          Monith Sourya                            |    14    1          Akshay Tiwari                            |
+|    15    1          Jaya Pavan Yalamati                      |    15    0          Rushabh Musthyala                        |    15    1          Poornima Venkatapuram                    |
+|    16    0          Vinith Bhandari                          |    16    0          Vinith Bhandari                          |    16    1          Jaya Pavan Yalamati                      |
+|    17    0          Tushar Aggarwal                          |    17    0          Tushar Aggarwal                          |    17    0          Tushar Aggarwal                          |
+|    18    0          Paavani Khanna                           |    18    0          Paavani Khanna                           |    18    0          Paavani Khanna                           |
+|    19    0          Shreejee Agarwal                         |    19    0          Shreejee Agarwal                         |    19    0          Shreejee Agarwal                         |
+|    20    0          Nivedan Vishwanath                       |    20    0          Nivedan Vishwanath                       |    20    0          Nivedan Vishwanath                       |
+|    21    0          Everyone Else                            |    21    0          Everyone Else                            |    21    0          Everyone Else                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    popular_folks                            |    till-quarantine-day-10    popular_folks                   |    all-time    popular_folks                                 |
+|                                                              |                                                              |                                                              |
+|     1    19438      Kushagra K Chanda                        |     1    4920       Chellapilla Shri Akhil                   |     1    21451      Kushagra K Chanda                        |
+|     2    18556      Tushar Kanth                             |     2    4570       Musaiyab Ali Mirza                       |     2    21283      Tushar Kanth                             |
+|     3    12809      Chellapilla Shri Akhil                   |     3    2727       Tushar Kanth                             |     3    17729      Chellapilla Shri Akhil                   |
+|     4    11372      Archana Swaminathan                      |     4    2708       Rohitt Vashishtha                        |     4    13334      Musaiyab Ali Mirza                       |
+|     5    9707       Ananya Mohapatra                         |     5    2013       Kushagra K Chanda                        |     5    13143      Archana Swaminathan                      |
+|     6    9560       Viswanatha Kasyap Pasumarthy             |     6    1853       Ananya Mohapatra                         |     6    11560      Ananya Mohapatra                         |
+|     7    8764       Musaiyab Ali Mirza                       |     7    1771       Archana Swaminathan                      |     7    11274      Rohitt Vashishtha                        |
+|     8    8566       Rohitt Vashishtha                        |     8    1723       Rohit Dwivedula                          |     8    10266      Viswanatha Kasyap Pasumarthy             |
+|     9    6839       Rohit Dwivedula                          |     9    1717       Siddharth Sampath                        |     9    8562       Rohit Dwivedula                          |
+|    10    5722       Rushabh Musthyala                        |    10    1602       Rushabh Musthyala                        |    10    7324       Rushabh Musthyala                        |
+|    11    5530       Shanmukh Kali Prasad                     |    11    1596       Shanmukh Kali Prasad                     |    11    7126       Shanmukh Kali Prasad                     |
+|    12    5291       Palak Oswal                              |    12    1221       Vedika Kulkarni                          |    12    6668       Siddharth Sampath                        |
+|    13    4951       Siddharth Sampath                        |    13    1145       Aditya Gayatri Sastry Kaipa              |    13    6153       Vedika Kulkarni                          |
+|    14    4932       Vedika Kulkarni                          |    14    1141       Poornima Venkatapuram                    |    14    6042       Palak Oswal                              |
+|    15    4435       Adarsh Mishra                            |    15    1081       Vinith Bhandari                          |    15    5159       Adarsh Mishra                            |
+|    16    4183       Shreyam Kumar                            |    16    751        Palak Oswal                              |    16    4720       Shreyam Kumar                            |
+|    17    3080       Poornima Venkatapuram                    |    17    724        Adarsh Mishra                            |    17    4221       Poornima Venkatapuram                    |
+|    18    2528       Saandra Nandakumar                       |    18    706        Viswanatha Kasyap Pasumarthy             |    18    3538       Aditya Gayatri Sastry Kaipa              |
+|    19    2425       Nivedan Vishwanath                       |    19    547        Eishita Tripathi                         |    19    2962       Saandra Nandakumar                       |
+|    20    2393       Aditya Gayatri Sastry Kaipa              |    20    537        Shreyam Kumar                            |    20    2917       Nivedan Vishwanath                       |
+|    21    14541      Everyone Else                            |    21    2336       Everyone Else                            |    21    17579      Everyone Else                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    top_messagers by batch                   |    till-quarantine-day-10    top_messagers by batch          |    all-time    top_messagers by batch                        |
+|                                                              |                                                              |                                                              |
+|    1    93312      Batch: 2015                               |    1    17188      Batch: 2015                               |    1    110500     Batch: 2015                               |
+|    1    31767      Batch: 2016                               |    1    9952       Batch: 2016                               |    1    41719      Batch: 2016                               |
+|    1    55805      Batch: 2017                               |    1    14105      Batch: 2017                               |    1    69910      Batch: 2017                               |
+|    1    36860      Batch: 2018                               |    1    7085       Batch: 2018                               |    1    43945      Batch: 2018                               |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    gif_offenders by batch                   |    till-quarantine-day-10    gif_offenders by batch          |    all-time    gif_offenders by batch                        |
+|                                                              |                                                              |                                                              |
+|    1    142        Batch: 2015                               |    1    40         Batch: 2015                               |    1    182        Batch: 2015                               |
+|    1    4          Batch: 2016                               |    1    1          Batch: 2016                               |    1    5          Batch: 2016                               |
+|    1    71         Batch: 2017                               |    1    18         Batch: 2017                               |    1    89         Batch: 2017                               |
+|    1    54         Batch: 2018                               |    1    14         Batch: 2018                               |    1    68         Batch: 2018                               |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    photo_people by batch                    |    till-quarantine-day-10    photo_people by batch           |    all-time    photo_people by batch                         |
+|                                                              |                                                              |                                                              |
+|    1    2212       Batch: 2015                               |    1    574        Batch: 2015                               |    1    2786       Batch: 2015                               |
+|    1    483        Batch: 2016                               |    1    226        Batch: 2016                               |    1    709        Batch: 2016                               |
+|    1    1186       Batch: 2017                               |    1    377        Batch: 2017                               |    1    1563       Batch: 2017                               |
+|    1    907        Batch: 2018                               |    1    293        Batch: 2018                               |    1    1200       Batch: 2018                               |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    top_foul_mouthed by batch                |    till-quarantine-day-10    top_foul_mouthed by batch       |    all-time    top_foul_mouthed by batch                     |
+|                                                              |                                                              |                                                              |
+|    1    4338       Batch: 2015                               |    1    753        Batch: 2015                               |    1    5091       Batch: 2015                               |
+|    1    1153       Batch: 2016                               |    1    338        Batch: 2016                               |    1    1491       Batch: 2016                               |
+|    1    2163       Batch: 2017                               |    1    465        Batch: 2017                               |    1    2628       Batch: 2017                               |
+|    1    1244       Batch: 2018                               |    1    288        Batch: 2018                               |    1    1532       Batch: 2018                               |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    basic_no_u_responders by batch           |    till-quarantine-day-10    basic_no_u_responders by batch  |    all-time    basic_no_u_responders by batch                |
+|                                                              |                                                              |                                                              |
+|    1    384        Batch: 2015                               |    1    53         Batch: 2015                               |    1    437        Batch: 2015                               |
+|    1    91         Batch: 2016                               |    1    20         Batch: 2016                               |    1    111        Batch: 2016                               |
+|    1    115        Batch: 2017                               |    1    22         Batch: 2017                               |    1    137        Batch: 2017                               |
+|    1    123        Batch: 2018                               |    1    12         Batch: 2018                               |    1    135        Batch: 2018                               |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    nick_changers by batch                   |    till-quarantine-day-10    nick_changers by batch          |    all-time    nick_changers by batch                        |
+|                                                              |                                                              |                                                              |
+|    1    646        Batch: 2015                               |    1    29         Batch: 2015                               |    1    675        Batch: 2015                               |
+|    1    164        Batch: 2016                               |    1    33         Batch: 2016                               |    1    197        Batch: 2016                               |
+|    1    335        Batch: 2017                               |    1    373        Batch: 2017                               |    1    708        Batch: 2017                               |
+|    1    249        Batch: 2018                               |    1    7          Batch: 2018                               |    1    256        Batch: 2018                               |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    highly_reactive by batch                 |    till-quarantine-day-10    highly_reactive by batch        |    all-time    highly_reactive by batch                      |
+|                                                              |                                                              |                                                              |
+|    1    75379      Batch: 2015                               |    1    13952      Batch: 2015                               |    1    89331      Batch: 2015                               |
+|    1    25461      Batch: 2016                               |    1    8002       Batch: 2016                               |    1    33463      Batch: 2016                               |
+|    1    36963      Batch: 2017                               |    1    9443       Batch: 2017                               |    1    46406      Batch: 2017                               |
+|    1    27819      Batch: 2018                               |    1    5992       Batch: 2018                               |    1    33811      Batch: 2018                               |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    quiters by batch                         |    till-quarantine-day-10    quiters by batch                |    all-time    quiters by batch                              |
+|                                                              |                                                              |                                                              |
+|    1    35         Batch: 2015                               |    1    5          Batch: 2015                               |    1    40         Batch: 2015                               |
+|    1    6          Batch: 2016                               |    1    1          Batch: 2016                               |    1    7          Batch: 2016                               |
+|    1    11         Batch: 2017                               |    1    2          Batch: 2017                               |    1    13         Batch: 2017                               |
+|    1    15         Batch: 2018                               |    1    2          Batch: 2018                               |    1    17         Batch: 2018                               |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    popular_folks by batch                   |    till-quarantine-day-10    popular_folks by batch          |    all-time    popular_folks by batch                        |
+|                                                              |                                                              |                                                              |
+|    1    75379      Batch: 2015                               |    1    13952      Batch: 2015                               |    1    89331      Batch: 2015                               |
+|    1    25461      Batch: 2016                               |    1    8002       Batch: 2016                               |    1    33463      Batch: 2016                               |
+|    1    36963      Batch: 2017                               |    1    9443       Batch: 2017                               |    1    46406      Batch: 2017                               |
+|    1    27819      Batch: 2018                               |    1    5992       Batch: 2018                               |    1    33811      Batch: 2018                               |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    photo_people_per_message                 |    till-quarantine-day-10    photo_people_per_message        |    all-time    photo_people_per_message                      |
+|                                                              |                                                              |                                                              |
+|     1    0.12713    Aditya Gayatri Sastry Kaipa              |     1    0.07840    Rushabh Musthyala                        |     1    0.10427    Aditya Gayatri Sastry Kaipa              |
+|     2    0.06872    Siddharth Sampath                        |     2    0.06671    Aditya Gayatri Sastry Kaipa              |     2    0.06687    Siddharth Sampath                        |
+|     3    0.05342    Rohitt Vashishtha                        |     3    0.06140    Siddharth Sampath                        |     3    0.05480    Rohitt Vashishtha                        |
+|     4    0.03641    Rushabh Musthyala                        |     4    0.05897    Rohitt Vashishtha                        |     4    0.04429    Rushabh Musthyala                        |
+|     5    0.03097    Adarsh Mishra                            |     5    0.04881    Adarsh Mishra                            |     5    0.03301    Adarsh Mishra                            |
+|     6    0.02892    Tushar Kanth                             |     6    0.04109    Ananya Mohapatra                         |     6    0.02968    Tushar Kanth                             |
+|     7    0.02365    Viswanatha Kasyap Pasumarthy             |     7    0.03448    Nivedan Vishwanath                       |     7    0.02605    Ananya Mohapatra                         |
+|     8    0.02325    Ananya Mohapatra                         |     8    0.03412    Tushar Kanth                             |     8    0.02403    Viswanatha Kasyap Pasumarthy             |
+|     9    0.02244    Eishita Tripathi                         |     9    0.03138    Archana Swaminathan                      |     9    0.02142    Kushagra K Chanda                        |
+|    10    0.02079    Kushagra K Chanda                        |    10    0.03060    Palak Oswal                              |    10    0.02088    Archana Swaminathan                      |
+|    11    0.01921    Archana Swaminathan                      |    11    0.02863    Kushagra K Chanda                        |    11    0.02061    Eishita Tripathi                         |
+|    12    0.01464    Palak Oswal                              |    12    0.02836    Viswanatha Kasyap Pasumarthy             |    12    0.01826    Chellapilla Shri Akhil                   |
+|    13    0.01445    Chellapilla Shri Akhil                   |    13    0.02819    Chellapilla Shri Akhil                   |    13    0.01664    Palak Oswal                              |
+|    14    0.01332    Rohit Dwivedula                          |    14    0.02569    Rohit Dwivedula                          |    14    0.01585    Rohit Dwivedula                          |
+|    15    0.01313    Nivedan Vishwanath                       |    15    0.02183    Vinith Bhandari                          |    15    0.01583    Shuddhabho Nandi                         |
+|    16    0.01253    Shanmukh Kali Prasad                     |    16    0.01825    Vedika Kulkarni                          |    16    0.01550    Nivedan Vishwanath                       |
+|    17    0.01147    Sandeep Jimmy                            |    17    0.01817    Musaiyab Ali Mirza                       |    17    0.01382    Musaiyab Ali Mirza                       |
+|    18    0.01117    Musaiyab Ali Mirza                       |    18    0.01592    Eishita Tripathi                         |    18    0.01346    Vinith Bhandari                          |
+|    19    0.01011    Saandra Nandakumar                       |    19    0.01021    Shanmukh Kali Prasad                     |    19    0.01193    Shanmukh Kali Prasad                     |
+|    20    0.00860    Poornima Venkatapuram                    |    20    0.01009    Shreyam Kumar                            |    20    0.01071    Sandeep Jimmy                            |
+|    21    0.00845    Vedika Kulkarni                          |    21    0.00803    Monith Sourya                            |    21    0.01024    Vedika Kulkarni                          |
+|    22    0.00835    Shreyam Kumar                            |    22    0.00729    Saandra Nandakumar                       |    22    0.00971    Saandra Nandakumar                       |
+|    23    0.00748    Vinith Bhandari                          |    23    0.00589    Poornima Venkatapuram                    |    23    0.00858    Shreyam Kumar                            |
+|    24    0.00599    Tejas Vaid                               |    24    0.00383    Karthik Nagaraj                          |    24    0.00788    Poornima Venkatapuram                    |
+|    25    0.00235    Karthik Nagaraj                          |    25    0.00258    Shuddhabho Nandi                         |    25    0.00251    Karthik Nagaraj                          |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    top_foul_mouthed_per_message             |    till-quarantine-day-10    top_foul_mouthed_per_message    |    all-time    top_foul_mouthed_per_message                  |
+|                                                              |                                                              |                                                              |
+|     1    0.06513    Rohitt Vashishtha                        |     1    0.06767    Rohitt Vashishtha                        |     1    0.06576    Rohitt Vashishtha                        |
+|     2    0.06085    Musaiyab Ali Mirza                       |     2    0.06513    Karthik Nagaraj                          |     2    0.05817    Kushagra K Chanda                        |
+|     3    0.05775    Kushagra K Chanda                        |     3    0.06308    Kushagra K Chanda                        |     3    0.05427    Viswanatha Kasyap Pasumarthy             |
+|     4    0.05763    Tejas Vaid                               |     4    0.06186    Shuddhabho Nandi                         |     4    0.05388    Sandeep Jimmy                            |
+|     5    0.05592    Siddharth Sampath                        |     5    0.06159    Viswanatha Kasyap Pasumarthy             |     5    0.05385    Musaiyab Ali Mirza                       |
+|     6    0.05558    Sandeep Jimmy                            |     6    0.06085    Nivedan Vishwanath                       |     6    0.05343    Shuddhabho Nandi                         |
+|     7    0.05363    Viswanatha Kasyap Pasumarthy             |     7    0.05147    Rushabh Musthyala                        |     7    0.05177    Siddharth Sampath                        |
+|     8    0.05250    Tushar Kanth                             |     8    0.05000    Adarsh Mishra                            |     8    0.05098    Tushar Kanth                             |
+|     9    0.04925    Nivedan Vishwanath                       |     9    0.04899    Shreyam Kumar                            |     9    0.05054    Nivedan Vishwanath                       |
+|    10    0.04852    Shanmukh Kali Prasad                     |    10    0.04239    Shanmukh Kali Prasad                     |    10    0.04722    Rushabh Musthyala                        |
+|    11    0.04782    Vedika Kulkarni                          |    11    0.04233    Musaiyab Ali Mirza                       |    11    0.04694    Shanmukh Kali Prasad                     |
+|    12    0.04623    Rushabh Musthyala                        |    12    0.04215    Tushar Kanth                             |    12    0.04584    Vedika Kulkarni                          |
+|    13    0.04613    Vinith Bhandari                          |    13    0.04192    Vinith Bhandari                          |    13    0.04438    Vinith Bhandari                          |
+|    14    0.04083    Karthik Nagaraj                          |    14    0.03951    Siddharth Sampath                        |    14    0.04348    Karthik Nagaraj                          |
+|    15    0.03909    Poornima Venkatapuram                    |    15    0.03694    Vedika Kulkarni                          |    15    0.03638    Poornima Venkatapuram                    |
+|    16    0.03097    Adarsh Mishra                            |    16    0.03150    Chellapilla Shri Akhil                   |    16    0.03315    Adarsh Mishra                            |
+|    17    0.03016    Shreyam Kumar                            |    17    0.02921    Ananya Mohapatra                         |    17    0.03268    Shreyam Kumar                            |
+|    18    0.02842    Ananya Mohapatra                         |    18    0.02914    Saandra Nandakumar                       |    18    0.02854    Ananya Mohapatra                         |
+|    19    0.02803    Aditya Gayatri Sastry Kaipa              |    19    0.02894    Poornima Venkatapuram                    |    19    0.02550    Aditya Gayatri Sastry Kaipa              |
+|    20    0.02415    Palak Oswal                              |    20    0.02340    Palak Oswal                              |    20    0.02406    Palak Oswal                              |
+|    21    0.02388    Archana Swaminathan                      |    21    0.02135    Aditya Gayatri Sastry Kaipa              |    21    0.02388    Chellapilla Shri Akhil                   |
+|    22    0.02171    Saandra Nandakumar                       |    22    0.02008    Monith Sourya                            |    22    0.02275    Saandra Nandakumar                       |
+|    23    0.02094    Chellapilla Shri Akhil                   |    23    0.01881    Rohit Dwivedula                          |    23    0.02258    Archana Swaminathan                      |
+|    24    0.01648    Rohit Dwivedula                          |    24    0.01699    Eishita Tripathi                         |    24    0.01696    Rohit Dwivedula                          |
+|    25    0.01579    Eishita Tripathi                         |    25    0.01437    Archana Swaminathan                      |    25    0.01613    Eishita Tripathi                         |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
+|    till-feb-2020    popular_folks_per_message                |    till-quarantine-day-10    popular_folks_per_message       |    all-time    popular_folks_per_message                     |
+|                                                              |                                                              |                                                              |
+|     1    1.37408    Rohitt Vashishtha                        |     1    1.30884    Rohitt Vashishtha                        |     1    1.35782    Rohitt Vashishtha                        |
+|     2    0.99875    Musaiyab Ali Mirza                       |     2    0.99797    Nivedan Vishwanath                       |     2    0.95962    Vinith Bhandari                          |
+|     3    0.97565    Shanmukh Kali Prasad                     |     3    0.97671    Kushagra K Chanda                        |     3    0.94474    Musaiyab Ali Mirza                       |
+|     4    0.97197    Aditya Gayatri Sastry Kaipa              |     4    0.95871    Rushabh Musthyala                        |     4    0.93443    Shanmukh Kali Prasad                     |
+|     5    0.97070    Vinith Bhandari                          |     5    0.94410    Vinith Bhandari                          |     5    0.89902    Siddharth Sampath                        |
+|     6    0.89556    Ananya Mohapatra                         |     6    0.91733    Ananya Mohapatra                         |     6    0.89898    Ananya Mohapatra                         |
+|     7    0.89304    Siddharth Sampath                        |     7    0.91671    Siddharth Sampath                        |     7    0.89321    Aditya Gayatri Sastry Kaipa              |
+|     8    0.82473    Kushagra K Chanda                        |     8    0.86190    Adarsh Mishra                            |     8    0.83695    Kushagra K Chanda                        |
+|     9    0.80807    Karthik Nagaraj                          |     9    0.85597    Musaiyab Ali Mirza                       |     9    0.82338    Rushabh Musthyala                        |
+|    10    0.79979    Tushar Kanth                             |    10    0.81512    Shanmukh Kali Prasad                     |    10    0.80393    Karthik Nagaraj                          |
+|    11    0.79208    Rushabh Musthyala                        |    11    0.79053    Saandra Nandakumar                       |    11    0.78284    Tushar Kanth                             |
+|    12    0.75171    Saandra Nandakumar                       |    12    0.77011    Karthik Nagaraj                          |    12    0.75716    Saandra Nandakumar                       |
+|    13    0.74311    Chellapilla Shri Akhil                   |    13    0.76384    Aditya Gayatri Sastry Kaipa              |    13    0.74270    Chellapilla Shri Akhil                   |
+|    14    0.68325    Adarsh Mishra                            |    14    0.74163    Chellapilla Shri Akhil                   |    14    0.70372    Adarsh Mishra                            |
+|    15    0.68067    Archana Swaminathan                      |    15    0.68414    Tushar Kanth                             |    15    0.67918    Palak Oswal                              |
+|    16    0.67964    Palak Oswal                              |    16    0.67597    Palak Oswal                              |    16    0.67915    Archana Swaminathan                      |
+|    17    0.67907    Viswanatha Kasyap Pasumarthy             |    17    0.66957    Archana Swaminathan                      |    17    0.67045    Viswanatha Kasyap Pasumarthy             |
+|    18    0.63684    Rohit Dwivedula                          |    18    0.62337    Rohit Dwivedula                          |    18    0.65521    Nivedan Vishwanath                       |
+|    19    0.63300    Eishita Tripathi                         |    19    0.61147    Poornima Venkatapuram                    |    19    0.63408    Rohit Dwivedula                          |
+|    20    0.62350    Tejas Vaid                               |    20    0.58068    Eishita Tripathi                         |    20    0.61828    Eishita Tripathi                         |
+|    21    0.61253    Nivedan Vishwanath                       |    21    0.57212    Viswanatha Kasyap Pasumarthy             |    21    0.60455    Poornima Venkatapuram                    |
+|    22    0.60203    Poornima Venkatapuram                    |    22    0.54339    Vedika Kulkarni                          |    22    0.59763    Shuddhabho Nandi                         |
+|    23    0.54751    Sandeep Jimmy                            |    23    0.46649    Shuddhabho Nandi                         |    23    0.54451    Sandeep Jimmy                            |
+|    24    0.49036    Vedika Kulkarni                          |    24    0.39759    Monith Sourya                            |    24    0.50004    Vedika Kulkarni                          |
+|    25    0.46561    Shreyam Kumar                            |    25    0.38689    Shreyam Kumar                            |    25    0.45507    Shreyam Kumar                            |
+|                                                              |                                                              |                                                              |
+|==============================================================|==============================================================|==============================================================|
