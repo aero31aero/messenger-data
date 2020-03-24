@@ -3,7 +3,14 @@ const fs = require('fs');
 const hindi_words = 'aand,aandu,balatkar,balatkari,behen chod,beti chod,bhadva,bhadve,bhandve,bhangi,bhootni ke,bhosad,bhosadi ke,boobe,chakke,chinaal,chinki,chod,chodu,chodu bhagat,chooche,choochi,choope,choot,choot ke baal,chootia,chootiya,chuche,chuchi,chudaap,chudai khanaa,chudam chudai,chude,chut,chut ka chuha,chut ka churan,chut ka mail,chut ke baal,chut ke dhakkan,chut maarli,chutad,chutadd,chutan,chutia,chutiya,gaand,gaandfat,gaandmasti,gaandufad,gandfattu,gandu,gashti,gasti,ghassa,ghasti,gucchi,gucchu,harami,haramzade,hawas,hawas ke pujari,hijda,hijra,jhant,jhant chaatu,jhant ka keeda,jhant ke baal,jhant ke pissu,jhantu,kamine,kaminey,kanjar,kutta,kutta kamina,kutte ki aulad,kutte ki jat,kuttiya,loda,lodu,lund,lund choos,lund ka bakkal,lund khajoor,lundtopi,lundure,maa ki chut,maal,madar chod,mooh mein le,mutth,mutthal,najayaz,najayaz aulaad,najayaz paidaish,paki,pataka,patakha,raand,randaap,randi,randi rona,saala,saala kutta,saali kutti,saali randi,suar,suar ke lund,suar ki aulad,tatte,tatti,teri maa ka bhosada,teri maa ka boba chusu,teri maa ki behenchod ,teri maa ki chut,tharak,tharki,tu chuda'.split(',');
 
 const all_participants = require('./participants');
-const separator_string = '='.repeat('65');
+const separator_string = '='.repeat('62');
+
+let logfile = '';
+
+const customlog = (str) => {
+    // console.log(str);
+    logfile += str + '\n';
+};
 
 const get_data = (batch) => {
     const json_files = [];
@@ -98,8 +105,14 @@ const print_people_list = (people, limit, other_name="Everyone Else", fixed=fals
         list = list.slice(0, 1 * limit)
     }
     list.forEach((e, index) => {
-        const count = fixed ? e.count.toFixed(5) : e.count;
-        console.log(`${index + 1}\t${count}\t${e.name}`);
+        let count = fixed ? e.count.toFixed(5) : e.count;
+        let visible_index = index+1;
+        if (visible_index < 10) {
+            visible_index = ' ' + visible_index;
+        }
+        count = '' + count;
+        count = count.padEnd('7', ' ');
+        customlog(`${visible_index}\t${count}\t${e.name}`);
     });
     if (limit !== 0 && !limit) return;
     if (fixed) return;
@@ -107,7 +120,9 @@ const print_people_list = (people, limit, other_name="Everyone Else", fixed=fals
     remaining.forEach(e => {
         sum += e.count;
     });
-    console.log(`${limit + 1}\t${sum}\t${other_name}`);
+    sum = '' + sum;
+    sum = sum.padEnd('7', ' ');
+    customlog(`${limit + 1}\t${sum}\t${other_name}`);
 }
 
 const print_person = (people, name) => {
@@ -119,7 +134,7 @@ let stats = {};
 
 const print_stat_by_batch = (store, key, stat_name) => {
     let data = store[stat_name];
-    console.log(`\n${separator_string}\n${key}    ${stat_name} by batch\n`);
+    customlog(`\n${separator_string}\n${key}    ${stat_name} by batch\n`);
     const batches = [2015, 2016, 2017, 2018];
     batches.forEach(batch => {
         const new_data = data.filter(e => {
@@ -138,7 +153,7 @@ const store_and_print_list = (store, key, stat_name, people, messages, limit=20,
         data = get_people_by_popularity_count(people, messages);
     }
     store[stat_name] = data;
-    console.log(`\n${separator_string}\n${key}    ${stat_name}\n`);
+    customlog(`\n${separator_string}\n${key}    ${stat_name}\n`);
     print_people_list(data, limit, other_name);
 };
 
@@ -161,7 +176,7 @@ print_per_message_stats = (store, key, stat_name) => {
         return b.count - a.count;
     });
     store[`${stat_name}_per_message`] = data;
-    console.log(`\n${separator_string}\n${key}    ${stat_name}_per_message\n`);
+    customlog(`\n${separator_string}\n${key}    ${stat_name}_per_message\n`);
     print_people_list(data, 25, "Everone Else", true);
 }
 
@@ -206,7 +221,7 @@ const compute = (opts={}) => {
     });
 
     if (opts.title) {
-        console.log(`\n${separator_string}\n${opts.title}\n${separator_string}\n`);
+        customlog(`${separator_string}\n${opts.title}\n${separator_string}\n`);
     }
     let store = {};
     store_and_print_list(store, opts.key, 'top_messagers', people, content_messages);
@@ -235,21 +250,59 @@ const compute = (opts={}) => {
     }
 }
 
+const print_stats = (logs) => {
+    logs = logs.map(e => {
+        e = e + '\n' + separator_string;
+        e = e.split('\n');
+        return e;
+    });
+    const line_limit = logs[0].length;
+    let lines = new Array(line_limit).fill(0).map(() => new Array(logs.length).fill(''));
+    logs.forEach((log, j) => {
+        log.forEach((line, i) => {
+            lines[i][j] = line;
+        })
+    });
+    const column_width = separator_string.length;
+    lines.forEach(line => {
+        line = line.map((segment => {
+            segment = segment.replace(/\t/g, '    ');
+            if (segment.length < column_width - 4) {
+                segment = '    ' + segment;
+            }
+            return segment.padEnd(column_width, ' ');
+        }))
+        let to_print = '|'
+        line.forEach(segment => {
+            to_print += `${segment}|`;
+        });
+        console.log(to_print);
+    });
+}
+
 const main = () => {
+    const logs = [];
+    logfile = '';
     compute({
         batch: 'A',
         title: "Feb 2nd 2017 to Feb 2nd 2020.",
         key: "till-feb-2020",
     });
+    logs.push(logfile);
+    logfile = '';
     compute({
         batch: 'B',
         title: "Feb 2nd 2020 to Mar 24th 2020.",
         key: 'till-quarantine-day-10',
     });
+    logs.push(logfile);
+    logfile = '';
     compute({
         title: "All Time",
         key: 'all-time',
     });
+    logs.push(logfile);
+    print_stats(logs);
     fs.writeFileSync('./stats.json', JSON.stringify(stats, null, 4));
     return stats; // JSON stats. Maybe draw some graphs or paint a rainbow with these.
 }
