@@ -4,9 +4,15 @@ const hindi_words = 'aand,aandu,balatkar,balatkari,behen chod,beti chod,bhadva,b
 
 const all_participants = require('./participants');
 
-const get_data = () => {
+const get_data = (batch) => {
     const json_files = [];
-    const files = fs.readdirSync('./jc-old');
+    let files = fs.readdirSync('./jc-old');
+    if (batch) {
+        files = files.filter(f => {
+            return f.replace('message_', '').startsWith(batch);
+        });
+    }
+
     files.forEach(e => {
         const m = require(`./jc-old/${e}`);
         json_files.push(m);
@@ -110,9 +116,9 @@ const print_person = (people, name) => {
 
 let stats = {};
 
-const print_stat_by_batch = (stat_name) => {
-    let data = stats[stat_name];
-    console.log(`\n====================================\n${stat_name} by batch\n`);
+const print_stat_by_batch = (store, key, stat_name) => {
+    let data = store[stat_name];
+    console.log(`\n====================================\n${key}    ${stat_name} by batch\n`);
     const batches = [2015, 2016, 2017, 2018];
     batches.forEach(batch => {
         const new_data = data.filter(e => {
@@ -122,7 +128,7 @@ const print_stat_by_batch = (stat_name) => {
     });
 }
 
-const store_and_print_list = (stat_name, people, messages, limit=20, other_name='Everyone Else') => {
+const store_and_print_list = (store, key, stat_name, people, messages, limit=20, other_name='Everyone Else') => {
     let data = get_people_by_message_count(people, messages);
     if (stat_name.indexOf('react') > -1) {
         data = get_people_by_reaction_count(people, messages);
@@ -130,14 +136,14 @@ const store_and_print_list = (stat_name, people, messages, limit=20, other_name=
     if (stat_name.indexOf('popular') > -1) {
         data = get_people_by_popularity_count(people, messages);
     }
-    stats[stat_name] = data;
-    console.log(`\n====================================\n${stat_name}\n`);
+    store[stat_name] = data;
+    console.log(`\n====================================\n${key}    ${stat_name}\n`);
     print_people_list(data, limit, other_name);
 };
 
-print_per_message_stats = (stat_name) => {
-    let data = stats[stat_name];
-    let msgs = stats.top_messagers;
+print_per_message_stats = (store, key, stat_name) => {
+    let data = store[stat_name];
+    let msgs = store.top_messagers;
     msgs = msgs.slice(0,25);
     data = data.map(a => ({...a}));
     data = data.filter(e => e.batch > 0);
@@ -153,13 +159,13 @@ print_per_message_stats = (stat_name) => {
         if (b.count == NaN) b.count = 0;
         return b.count - a.count;
     });
-    stats[`${stat_name}_per_message`] = data;
-    console.log(`\n====================================\n${stat_name}_per_message\n`);
+    store[`${stat_name}_per_message`] = data;
+    console.log(`\n====================================\n${key}    ${stat_name}_per_message\n`);
     print_people_list(data, 25, "Everone Else", true);
 }
 
-const main = () => {
-    let {people, messages} = get_data();
+const compute = (opts={}) => {
+    let {people, messages} = get_data(opts.batch);
     const content_messages = messages.filter(e => {
         const is_nick_message = e.content && e.content.indexOf(' set the nickname for ') !== -1;
         return !is_nick_message;
@@ -198,27 +204,51 @@ const main = () => {
         return valid;
     });
 
-    store_and_print_list('top_messagers', people, content_messages);
-    store_and_print_list('gif_offenders', people, gif_messages);
-    store_and_print_list('photo_people', people, photo_messages);
-    store_and_print_list('top_foul_mouthed', people, swear_messages);
-    store_and_print_list('basic_no_u_responders', people, no_u_messages);
-    store_and_print_list('nick_changers', people, nick_messages);
-    store_and_print_list('highly_reactive', people, content_messages);
-    store_and_print_list('quiters', people, left_messages);
-    store_and_print_list('popular_folks', people, content_messages);
-    print_stat_by_batch('top_messagers');
-    print_stat_by_batch('gif_offenders');
-    print_stat_by_batch('photo_people');
-    print_stat_by_batch('top_foul_mouthed');
-    print_stat_by_batch('basic_no_u_responders');
-    print_stat_by_batch('nick_changers');
-    print_stat_by_batch('highly_reactive');
-    print_stat_by_batch('quiters');
-    print_stat_by_batch('popular_folks');
-    print_per_message_stats('photo_people');
-    print_per_message_stats('top_foul_mouthed');
-    print_per_message_stats('popular_folks');
+    if (opts.title) {
+        console.log(`\n====================================\n${opts.title}\n====================================\n`);
+    }
+    let store = {};
+    store_and_print_list(store, opts.key, 'top_messagers', people, content_messages);
+    store_and_print_list(store, opts.key, 'gif_offenders', people, gif_messages);
+    store_and_print_list(store, opts.key, 'photo_people', people, photo_messages);
+    store_and_print_list(store, opts.key, 'top_foul_mouthed', people, swear_messages);
+    store_and_print_list(store, opts.key, 'basic_no_u_responders', people, no_u_messages);
+    store_and_print_list(store, opts.key, 'nick_changers', people, nick_messages);
+    store_and_print_list(store, opts.key, 'highly_reactive', people, content_messages);
+    store_and_print_list(store, opts.key, 'quiters', people, left_messages);
+    store_and_print_list(store, opts.key, 'popular_folks', people, content_messages);
+    print_stat_by_batch(store, opts.key, 'top_messagers');
+    print_stat_by_batch(store, opts.key, 'gif_offenders');
+    print_stat_by_batch(store, opts.key, 'photo_people');
+    print_stat_by_batch(store, opts.key, 'top_foul_mouthed');
+    print_stat_by_batch(store, opts.key, 'basic_no_u_responders');
+    print_stat_by_batch(store, opts.key, 'nick_changers');
+    print_stat_by_batch(store, opts.key, 'highly_reactive');
+    print_stat_by_batch(store, opts.key, 'quiters');
+    print_stat_by_batch(store, opts.key, 'popular_folks');
+    print_per_message_stats(store, opts.key, 'photo_people');
+    print_per_message_stats(store, opts.key, 'top_foul_mouthed');
+    print_per_message_stats(store, opts.key, 'popular_folks');
+    if(opts.key) {
+        stats[opts.key] = store;
+    }
+}
+
+const main = () => {
+    compute({
+        batch: 'A',
+        title: "Feb 2nd 2017 to Feb 2nd 2020.",
+        key: "till-feb-2020",
+    });
+    compute({
+        batch: 'B',
+        title: "Feb 2nd 2020 to Mar 24th 2020.",
+        key: 'till-quarantine-day-10',
+    });
+    compute({
+        title: "All Time",
+        key: 'all-time',
+    });
     fs.writeFileSync('./stats.json', JSON.stringify(stats, null, 4));
     return stats; // JSON stats. Maybe draw some graphs or paint a rainbow with these.
 }
